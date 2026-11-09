@@ -1,0 +1,4151 @@
+{
+  "schema": 1,
+  "name": "Mega Drive - archive.org",
+  "description": "Mega Drive - archive.org - via archive.org",
+  "packages": [
+    {
+      "id": "ia-md-a-train-take-the-a-train-md-japan-t-en-by-mrrichard999-age",
+      "name": "A-Train - Take the ''A'' Train MD (Japan) [T-En by MrRichard999 & AgentOrange & FlashPV v0.99] [n]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/A-Train%20-%20Take%20the%20%27%27A%27%27%20Train%20MD%20%28Japan%29%20%5BT-En%20by%20MrRichard999%20%26%20AgentOrange%20%26%20FlashPV%20v0.99%5D%20%5Bn%5D.zip",
+      "size": 186044,
+      "type": "rom",
+      "filename": "A-Train - Take the ''A'' Train MD (Japan) [T-En by MrRichard999 & AgentOrange & FlashPV v0.99] [n].zip"
+    },
+    {
+      "id": "ia-md-advanced-busterhawk-gleylancer-japan-t-en-by-m.i.j.e.t.-v0",
+      "name": "Advanced Busterhawk Gleylancer (Japan) [T-En by M.I.J.E.T. v061023]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Advanced%20Busterhawk%20Gleylancer%20%28Japan%29%20%5BT-En%20by%20M.I.J.E.T.%20v061023%5D.zip",
+      "size": 789258,
+      "type": "rom",
+      "filename": "Advanced Busterhawk Gleylancer (Japan) [T-En by M.I.J.E.T. v061023].zip"
+    },
+    {
+      "id": "ia-md-aero-the-acro-bat-usa",
+      "name": "Aero the Acro-Bat (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Aero%20the%20Acro-Bat%20%28USA%29.zip",
+      "size": 519575,
+      "type": "rom",
+      "filename": "Aero the Acro-Bat (USA).zip"
+    },
+    {
+      "id": "ia-md-aero-the-acro-bat-2-usa",
+      "name": "Aero the Acro-Bat 2 (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Aero%20the%20Acro-Bat%202%20%28USA%29.zip",
+      "size": 1129620,
+      "type": "rom",
+      "filename": "Aero the Acro-Bat 2 (USA).zip"
+    },
+    {
+      "id": "ia-md-akira-usa-proto",
+      "name": "Akira (USA) (Proto)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Akira%20%28USA%29%20%28Proto%29.zip",
+      "size": 1318829,
+      "type": "rom",
+      "filename": "Akira (USA) (Proto).zip"
+    },
+    {
+      "id": "ia-md-aladdin-usa-final-cut-color-hack-by-rod-merida-v1.01",
+      "name": "Aladdin (USA) (Final Cut) [Color hack by Rod Merida v1.01]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Aladdin%20%28USA%29%20%28Final%20Cut%29%20%5BColor%20hack%20by%20Rod%20Merida%20v1.01%5D.zip",
+      "size": 1259741,
+      "type": "rom",
+      "filename": "Aladdin (USA) (Final Cut) [Color hack by Rod Merida v1.01].zip"
+    },
+    {
+      "id": "ia-md-aladdin-ii-taiwan-en-unl",
+      "name": "Aladdin II (Taiwan) (En) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Aladdin%20II%20%28Taiwan%29%20%28En%29%20%28Unl%29.zip",
+      "size": 707403,
+      "type": "rom",
+      "filename": "Aladdin II (Taiwan) (En) (Unl).zip"
+    },
+    {
+      "id": "ia-md-alex-kidd-in-the-enchanted-castle-usa",
+      "name": "Alex Kidd in the Enchanted Castle (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Alex%20Kidd%20in%20the%20Enchanted%20Castle%20%28USA%29.zip",
+      "size": 153425,
+      "type": "rom",
+      "filename": "Alex Kidd in the Enchanted Castle (USA).zip"
+    },
+    {
+      "id": "ia-md-alien-soldier-japan-t-it-by-it.unknown-v1.0-6-button-contr",
+      "name": "Alien Soldier (Japan) [T-It by It.Unknown v1.0] [6-Button Controller hack by NaOH v1.3] [Ammo Regen hack by BillyTime! Games v1.1] [Weapon Cycling hack by i_hate_drm v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Alien%20Soldier%20%28Japan%29%20%5BT-It%20by%20It.Unknown%20v1.0%5D%20%5B6-Button%20Controller%20hack%20by%20NaOH%20v1.3%5D%20%5BAmmo%20Regen%20hack%20by%20BillyTime%21%20Games%20v1.1%5D%20%5BWeapon%20Cycling%20hack%20by%20i_hate_drm%20v1.0%5D.zip",
+      "size": 1093340,
+      "type": "rom",
+      "filename": "Alien Soldier (Japan) [T-It by It.Unknown v1.0] [6-Button Controller hack by NaOH v1.3] [Ammo Regen hack by BillyTime! Games v1.1] [Weapon Cycling hack by i_hate_drm v1.0].zip"
+    },
+    {
+      "id": "ia-md-alien-storm-world",
+      "name": "Alien Storm (World)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Alien%20Storm%20%28World%29.zip",
+      "size": 371021,
+      "type": "rom",
+      "filename": "Alien Storm (World).zip"
+    },
+    {
+      "id": "ia-md-alisia-dragoon-usa",
+      "name": "Alisia Dragoon (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Alisia%20Dragoon%20%28USA%29.zip",
+      "size": 608992,
+      "type": "rom",
+      "filename": "Alisia Dragoon (USA).zip"
+    },
+    {
+      "id": "ia-md-altered-beast-japan-usa-en-rev-a",
+      "name": "Altered Beast (Japan, USA) (En) (Rev A)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Altered%20Beast%20%28Japan%2C%20USA%29%20%28En%29%20%28Rev%20A%29.zip",
+      "size": 322979,
+      "type": "rom",
+      "filename": "Altered Beast (Japan, USA) (En) (Rev A).zip"
+    },
+    {
+      "id": "ia-md-arcade-classics-usa-europe",
+      "name": "Arcade Classics (USA, Europe)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Arcade%20Classics%20%28USA%2C%20Europe%29.zip",
+      "size": 103517,
+      "type": "rom",
+      "filename": "Arcade Classics (USA, Europe).zip"
+    },
+    {
+      "id": "ia-md-arkagis-revolution-world-en-fr-es-rev.1-aftermarket-unl",
+      "name": "Arkagis Revolution (World) (En,Fr,Es) (Rev.1) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Arkagis%20Revolution%20%28World%29%20%28En%2CFr%2CEs%29%20%28Rev.1%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 930225,
+      "type": "rom",
+      "filename": "Arkagis Revolution (World) (En,Fr,Es) (Rev.1) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-art-of-fighting-usa-color-hack-by-pyron-v1.0",
+      "name": "Art of Fighting (USA) [Color hack by Pyron v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Art%20of%20Fighting%20%28USA%29%20%5BColor%20hack%20by%20Pyron%20v1.0%5D.zip",
+      "size": 907632,
+      "type": "rom",
+      "filename": "Art of Fighting (USA) [Color hack by Pyron v1.0].zip"
+    },
+    {
+      "id": "ia-md-astebros-unknown-en-fr-de-es-it-pt-br-jp-ch-eshop-aftermar",
+      "name": "Astebros (Unknown) (En,Fr,De,Es,It,Pt-BR,Jp,Ch) (eShop) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Astebros%20%28Unknown%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CPt-BR%2CJp%2CCh%29%20%28eShop%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 6428436,
+      "type": "rom",
+      "filename": "Astebros (Unknown) (En,Fr,De,Es,It,Pt-BR,Jp,Ch) (eShop) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-asterix-and-the-great-rescue-europe-en-fr-de-es-it-ntsc",
+      "name": "Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It) [NTSC]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Asterix%20and%20the%20Great%20Rescue%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%5BNTSC%5D.zip",
+      "size": 970478,
+      "type": "rom",
+      "filename": "Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It) [NTSC].zip"
+    },
+    {
+      "id": "ia-md-asterix-and-the-power-of-the-gods-europe-en-fr-de-es-ntsc",
+      "name": "Asterix and the Power of the Gods (Europe) (En,Fr,De,Es) [NTSC]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Asterix%20and%20the%20Power%20of%20the%20Gods%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29%20%5BNTSC%5D.zip",
+      "size": 1088417,
+      "type": "rom",
+      "filename": "Asterix and the Power of the Gods (Europe) (En,Fr,De,Es) [NTSC].zip"
+    },
+    {
+      "id": "ia-md-atomic-robo-kid-usa",
+      "name": "Atomic Robo-Kid (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Atomic%20Robo-Kid%20%28USA%29.zip",
+      "size": 198575,
+      "type": "rom",
+      "filename": "Atomic Robo-Kid (USA).zip"
+    },
+    {
+      "id": "ia-md-attack-of-the-petscii-robots-usa-aftermarket-unl",
+      "name": "Attack of the Petscii Robots (USA) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Attack%20of%20the%20Petscii%20Robots%20%28USA%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 627618,
+      "type": "rom",
+      "filename": "Attack of the Petscii Robots (USA) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-back-to-the-future-part-iii-usa-color-hack-by-greg-kennedy",
+      "name": "Back to the Future Part III (USA) [Color hack by Greg Kennedy v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Back%20to%20the%20Future%20Part%20III%20%28USA%29%20%5BColor%20hack%20by%20Greg%20Kennedy%20v1.0%5D.zip",
+      "size": 194183,
+      "type": "rom",
+      "filename": "Back to the Future Part III (USA) [Color hack by Greg Kennedy v1.0].zip"
+    },
+    {
+      "id": "ia-md-battle-golfer-yui-japan-t-en-by-filler-v0.9",
+      "name": "Battle Golfer Yui (Japan) [T-En by Filler v0.9]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Battle%20Golfer%20Yui%20%28Japan%29%20%5BT-En%20by%20Filler%20v0.9%5D.zip",
+      "size": 302714,
+      "type": "rom",
+      "filename": "Battle Golfer Yui (Japan) [T-En by Filler v0.9].zip"
+    },
+    {
+      "id": "ia-md-battle-mania-daiginjou-japan-korea-t-en-by-m.i.j.e.t.-v061",
+      "name": "Battle Mania Daiginjou (Japan, Korea) [T-En by M.I.J.E.T. v061029]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Battle%20Mania%20Daiginjou%20%28Japan%2C%20Korea%29%20%5BT-En%20by%20M.I.J.E.T.%20v061029%5D.zip",
+      "size": 722344,
+      "type": "rom",
+      "filename": "Battle Mania Daiginjou (Japan, Korea) [T-En by M.I.J.E.T. v061029].zip"
+    },
+    {
+      "id": "ia-md-battletoads-double-dragon-usa-color-hack-by-sebastianangel",
+      "name": "Battletoads-Double Dragon (USA) [Color hack by Sebastianangel v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Battletoads-Double%20Dragon%20%28USA%29%20%5BColor%20hack%20by%20Sebastianangel%20v1.0%5D.zip",
+      "size": 453119,
+      "type": "rom",
+      "filename": "Battletoads-Double Dragon (USA) [Color hack by Sebastianangel v1.0].zip"
+    },
+    {
+      "id": "ia-md-beggar-prince-world-rev-1-aftermarket-unl",
+      "name": "Beggar Prince (World) (Rev 1) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Beggar%20Prince%20%28World%29%20%28Rev%201%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 2071668,
+      "type": "rom",
+      "filename": "Beggar Prince (World) (Rev 1) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-beyond-oasis-usa-t-it-by-trap-v1.0",
+      "name": "Beyond Oasis (USA) [T-It by Trap v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Beyond%20Oasis%20%28USA%29%20%5BT-It%20by%20Trap%20v1.0%5D.zip",
+      "size": 1769781,
+      "type": "rom",
+      "filename": "Beyond Oasis (USA) [T-It by Trap v1.0].zip"
+    },
+    {
+      "id": "ia-md-bio-hazard-battle-usa-europe",
+      "name": "Bio Hazard Battle (USA, Europe)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Bio%20Hazard%20Battle%20%28USA%2C%20Europe%29.zip",
+      "size": 582520,
+      "type": "rom",
+      "filename": "Bio Hazard Battle (USA, Europe).zip"
+    },
+    {
+      "id": "ia-md-body-count-europe-en-fr-de-es-it",
+      "name": "Body Count (Europe) (En,Fr,De,Es,It)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Body%20Count%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip",
+      "size": 395799,
+      "type": "rom",
+      "filename": "Body Count (Europe) (En,Fr,De,Es,It).zip"
+    },
+    {
+      "id": "ia-md-bonanza-bros.-usa-europe-korea-en-rev-b",
+      "name": "Bonanza Bros. (USA, Europe, Korea) (En) (Rev B)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Bonanza%20Bros.%20%28USA%2C%20Europe%2C%20Korea%29%20%28En%29%20%28Rev%20B%29.zip",
+      "size": 204281,
+      "type": "rom",
+      "filename": "Bonanza Bros. (USA, Europe, Korea) (En) (Rev B).zip"
+    },
+    {
+      "id": "ia-md-brave-battle-saga-legend-of-the-magic-warrior-world-unl",
+      "name": "Brave Battle Saga - Legend of the Magic Warrior (World) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Brave%20Battle%20Saga%20-%20Legend%20of%20the%20Magic%20Warrior%20%28World%29%20%28Unl%29.zip",
+      "size": 1035684,
+      "type": "rom",
+      "filename": "Brave Battle Saga - Legend of the Magic Warrior (World) (Unl).zip"
+    },
+    {
+      "id": "ia-md-cannon-fodder-europe",
+      "name": "Cannon Fodder (Europe)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Cannon%20Fodder%20%28Europe%29.zip",
+      "size": 570511,
+      "type": "rom",
+      "filename": "Cannon Fodder (Europe).zip"
+    },
+    {
+      "id": "ia-md-canon-the-legend-of-the-new-gods-usa-aftermarket-unl",
+      "name": "Canon - The Legend of the New Gods (USA) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Canon%20-%20The%20Legend%20of%20the%20New%20Gods%20%28USA%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 1025625,
+      "type": "rom",
+      "filename": "Canon - The Legend of the New Gods (USA) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-captain-america-and-the-avengers-usa-color-hack-by-pyron-v",
+      "name": "Captain America and the Avengers (USA) [Color hack by Pyron v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Captain%20America%20and%20the%20Avengers%20%28USA%29%20%5BColor%20hack%20by%20Pyron%20v1.0%5D.zip",
+      "size": 644561,
+      "type": "rom",
+      "filename": "Captain America and the Avengers (USA) [Color hack by Pyron v1.0].zip"
+    },
+    {
+      "id": "ia-md-castle-of-illusion-starring-mickey-mouse-japan-t-en-by-rad",
+      "name": "Castle of Illusion Starring Mickey Mouse (Japan) [T-En by RadioTails v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Castle%20of%20Illusion%20Starring%20Mickey%20Mouse%20%28Japan%29%20%5BT-En%20by%20RadioTails%20v1.0%5D.zip",
+      "size": 421263,
+      "type": "rom",
+      "filename": "Castle of Illusion Starring Mickey Mouse (Japan) [T-En by RadioTails v1.0].zip"
+    },
+    {
+      "id": "ia-md-castlevania-bloodlines-usa-color-hack-by-pyron-v1.0",
+      "name": "Castlevania - Bloodlines (USA) [Color hack by Pyron v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Castlevania%20-%20Bloodlines%20%28USA%29%20%5BColor%20hack%20by%20Pyron%20v1.0%5D.zip",
+      "size": 695952,
+      "type": "rom",
+      "filename": "Castlevania - Bloodlines (USA) [Color hack by Pyron v1.0].zip"
+    },
+    {
+      "id": "ia-md-cave-story-doukutsu-monogatari-world-it-v0.8.0-aftermarket",
+      "name": "Cave Story - Doukutsu Monogatari (World) (It) (v0.8.0) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Cave%20Story%20-%20Doukutsu%20Monogatari%20%28World%29%20%28It%29%20%28v0.8.0%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 1522110,
+      "type": "rom",
+      "filename": "Cave Story - Doukutsu Monogatari (World) (It) (v0.8.0) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-chaos-engine-2-the-europe-proto",
+      "name": "Chaos Engine 2, The (Europe) (Proto)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Chaos%20Engine%202%2C%20The%20%28Europe%29%20%28Proto%29.zip",
+      "size": 197830,
+      "type": "rom",
+      "filename": "Chaos Engine 2, The (Europe) (Proto).zip"
+    },
+    {
+      "id": "ia-md-chaos-engine-the-europe-color-hack-60hz-audio-fix-by-fusar",
+      "name": "Chaos Engine, The (Europe) [Color hack & 60Hz Audio Fix by Fusaru v1.01]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Chaos%20Engine%2C%20The%20%28Europe%29%20%5BColor%20hack%20%26%2060Hz%20Audio%20Fix%20by%20Fusaru%20v1.01%5D.zip",
+      "size": 789518,
+      "type": "rom",
+      "filename": "Chaos Engine, The (Europe) [Color hack & 60Hz Audio Fix by Fusaru v1.01].zip"
+    },
+    {
+      "id": "ia-md-chiki-chiki-boys-usa-europe-color-hack-by-pyron-v1.0",
+      "name": "Chiki Chiki Boys (USA, Europe) [Color hack by Pyron v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Chiki%20Chiki%20Boys%20%28USA%2C%20Europe%29%20%5BColor%20hack%20by%20Pyron%20v1.0%5D.zip",
+      "size": 493837,
+      "type": "rom",
+      "filename": "Chiki Chiki Boys (USA, Europe) [Color hack by Pyron v1.0].zip"
+    },
+    {
+      "id": "ia-md-coffee-crisis-world-aftermarket-unl-alt",
+      "name": "Coffee Crisis (World) (Aftermarket) (Unl) (Alt)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Coffee%20Crisis%20%28World%29%20%28Aftermarket%29%20%28Unl%29%20%28Alt%29.zip",
+      "size": 1138537,
+      "type": "rom",
+      "filename": "Coffee Crisis (World) (Aftermarket) (Unl) (Alt).zip"
+    },
+    {
+      "id": "ia-md-columns-usa-europe",
+      "name": "Columns (USA, Europe)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Columns%20%28USA%2C%20Europe%29.zip",
+      "size": 83545,
+      "type": "rom",
+      "filename": "Columns (USA, Europe).zip"
+    },
+    {
+      "id": "ia-md-columns-iii-usa",
+      "name": "Columns III (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Columns%20III%20%28USA%29.zip",
+      "size": 245700,
+      "type": "rom",
+      "filename": "Columns III (USA).zip"
+    },
+    {
+      "id": "ia-md-comix-zone-usa-t-it-by-it.unknown-v1.0",
+      "name": "Comix Zone (Usa) [T-It by It.Unknown v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Comix%20Zone%20%28Usa%29%20%5BT-It%20by%20It.Unknown%20v1.0%5D.zip",
+      "size": 1606683,
+      "type": "rom",
+      "filename": "Comix Zone (Usa) [T-It by It.Unknown v1.0].zip"
+    },
+    {
+      "id": "ia-md-contra-hard-corps-usa-korea-en-enhancement-hack-by-jon-naj",
+      "name": "Contra - Hard Corps (USA, Korea) (En) [Enhancement Hack by Jon Najar v.120527] [Hit Points Restoration Hack by MrNemesis v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Contra%20-%20Hard%20Corps%20%28USA%2C%20Korea%29%20%28En%29%20%5BEnhancement%20Hack%20by%20Jon%20Najar%20v.120527%5D%20%5BHit%20Points%20Restoration%20Hack%20by%20MrNemesis%20v1.0%5D.zip",
+      "size": 1284903,
+      "type": "rom",
+      "filename": "Contra - Hard Corps (USA, Korea) (En) [Enhancement Hack by Jon Najar v.120527] [Hit Points Restoration Hack by MrNemesis v1.0].zip"
+    },
+    {
+      "id": "ia-md-cool-spot-usa",
+      "name": "Cool Spot (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Cool%20Spot%20%28USA%29.zip",
+      "size": 633061,
+      "type": "rom",
+      "filename": "Cool Spot (USA).zip"
+    },
+    {
+      "id": "ia-md-curse-of-illmoore-bay-the-world-aftermarket-unl",
+      "name": "Curse of Illmoore Bay, The (World) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Curse%20of%20Illmoore%20Bay%2C%20The%20%28World%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 1039433,
+      "type": "rom",
+      "filename": "Curse of Illmoore Bay, The (World) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-cursed-knight-the-world-en-fr-aftermarket-unl",
+      "name": "Cursed Knight, The (World) (En,Fr) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Cursed%20Knight%2C%20The%20%28World%29%20%28En%2CFr%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 1321358,
+      "type": "rom",
+      "filename": "Cursed Knight, The (World) (En,Fr) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-dahna-goddess-birth-japan-t-en-by-cccmar-v1.0-n",
+      "name": "Dahna - Goddess' Birth (Japan) [T-En by Cccmar v1.0] [n]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Dahna%20-%20Goddess%27%20Birth%20%28Japan%29%20%5BT-En%20by%20Cccmar%20v1.0%5D%20%5Bn%5D.zip",
+      "size": 351797,
+      "type": "rom",
+      "filename": "Dahna - Goddess' Birth (Japan) [T-En by Cccmar v1.0] [n].zip"
+    },
+    {
+      "id": "ia-md-darius-extra-version-japan-en-columbus-circle-aftermarket",
+      "name": "Darius - Extra Version (Japan) (En) (Columbus Circle) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Darius%20-%20Extra%20Version%20%28Japan%29%20%28En%29%20%28Columbus%20Circle%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 1376262,
+      "type": "rom",
+      "filename": "Darius - Extra Version (Japan) (En) (Columbus Circle) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-darius-ii-japan-color-hack-by-pyron-v1.0",
+      "name": "Darius II (Japan) [Color hack by Pyron v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Darius%20II%20%28Japan%29%20%5BColor%20hack%20by%20Pyron%20v1.0%5D.zip",
+      "size": 418251,
+      "type": "rom",
+      "filename": "Darius II (Japan) [Color hack by Pyron v1.0].zip"
+    },
+    {
+      "id": "ia-md-demons-of-asteborg-unknown-en-fr-de-es-it-pt-br-rev-2-v1.1",
+      "name": "Demons of Asteborg (Unknown) (En,Fr,De,Es,It,Pt-BR) (Rev 2, v1.13) (eShop) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Demons%20of%20Asteborg%20%28Unknown%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CPt-BR%29%20%28Rev%202%2C%20v1.13%29%20%28eShop%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 6380830,
+      "type": "rom",
+      "filename": "Demons of Asteborg (Unknown) (En,Fr,De,Es,It,Pt-BR) (Rev 2, v1.13) (eShop) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-devi-and-pii-japan-mega-drive-mini-2-patched",
+      "name": "Devi and Pii (Japan) (Mega Drive Mini 2) [Patched]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Devi%20and%20Pii%20%28Japan%29%20%28Mega%20Drive%20Mini%202%29%20%5BPatched%5D.zip",
+      "size": 168542,
+      "type": "rom",
+      "filename": "Devi and Pii (Japan) (Mega Drive Mini 2) [Patched].zip"
+    },
+    {
+      "id": "ia-md-devil-crash-md-japan-color-hack-by-pyron-v1.0",
+      "name": "Devil Crash MD (Japan) [Color hack by Pyron v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Devil%20Crash%20MD%20%28Japan%29%20%5BColor%20hack%20by%20Pyron%20v1.0%5D.zip",
+      "size": 383903,
+      "type": "rom",
+      "filename": "Devil Crash MD (Japan) [Color hack by Pyron v1.0].zip"
+    },
+    {
+      "id": "ia-md-donald-in-maui-mallard-europe-ntsc",
+      "name": "Donald in Maui Mallard (Europe) [NTSC]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Donald%20in%20Maui%20Mallard%20%28Europe%29%20%5BNTSC%5D.zip",
+      "size": 1466570,
+      "type": "rom",
+      "filename": "Donald in Maui Mallard (Europe) [NTSC].zip"
+    },
+    {
+      "id": "ia-md-double-dragon-usa-europe-unl-color-fixes-scroll-hack-by-py",
+      "name": "Double Dragon (USA, Europe) (Unl) [Color+Fixes+Scroll hack by Pyron v1, hiro1112 v1.3]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Double%20Dragon%20%28USA%2C%20Europe%29%20%28Unl%29%20%5BColor%2BFixes%2BScroll%20hack%20by%20Pyron%20v1%2C%20hiro1112%20v1.3%5D.zip",
+      "size": 236366,
+      "type": "rom",
+      "filename": "Double Dragon (USA, Europe) (Unl) [Color+Fixes+Scroll hack by Pyron v1, hiro1112 v1.3].zip"
+    },
+    {
+      "id": "ia-md-double-dragon-ii-the-revenge-japan-en-color-hack-by-sebast",
+      "name": "Double Dragon II - The Revenge (Japan) (En) [Color hack by Sebastianangel v1.3]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Double%20Dragon%20II%20-%20The%20Revenge%20%28Japan%29%20%28En%29%20%5BColor%20hack%20by%20Sebastianangel%20v1.3%5D.zip",
+      "size": 224895,
+      "type": "rom",
+      "filename": "Double Dragon II - The Revenge (Japan) (En) [Color hack by Sebastianangel v1.3].zip"
+    },
+    {
+      "id": "ia-md-double-dragon-iii-the-arcade-game-usa-europe",
+      "name": "Double Dragon III - The Arcade Game (USA, Europe)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Double%20Dragon%20III%20-%20The%20Arcade%20Game%20%28USA%2C%20Europe%29.zip",
+      "size": 469667,
+      "type": "rom",
+      "filename": "Double Dragon III - The Arcade Game (USA, Europe).zip"
+    },
+    {
+      "id": "ia-md-double-dragon-v-the-shadow-falls-usa",
+      "name": "Double Dragon V - The Shadow Falls (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Double%20Dragon%20V%20-%20The%20Shadow%20Falls%20%28USA%29.zip",
+      "size": 1634178,
+      "type": "rom",
+      "filename": "Double Dragon V - The Shadow Falls (USA).zip"
+    },
+    {
+      "id": "ia-md-dr.-robotnik-s-mean-bean-machine-usa",
+      "name": "Dr. Robotnik's Mean Bean Machine (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Dr.%20Robotnik%27s%20Mean%20Bean%20Machine%20%28USA%29.zip",
+      "size": 569921,
+      "type": "rom",
+      "filename": "Dr. Robotnik's Mean Bean Machine (USA).zip"
+    },
+    {
+      "id": "ia-md-dragon-ball-z-l-appel-du-destin-france-t-en-by-dbz-game-v0",
+      "name": "Dragon Ball Z - L'Appel du Destin (France) [T-En by DBZ Game v0.95A]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Dragon%20Ball%20Z%20-%20L%27Appel%20du%20Destin%20%28France%29%20%5BT-En%20by%20DBZ%20Game%20v0.95A%5D.zip",
+      "size": 1481598,
+      "type": "rom",
+      "filename": "Dragon Ball Z - L'Appel du Destin (France) [T-En by DBZ Game v0.95A].zip"
+    },
+    {
+      "id": "ia-md-dyna-brothers-japan-t-en-by-tybis-v0.1-i",
+      "name": "Dyna Brothers (Japan) [T-En by Tybis v0.1][i]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Dyna%20Brothers%20%28Japan%29%20%5BT-En%20by%20Tybis%20v0.1%5D%5Bi%5D.zip",
+      "size": 597539,
+      "type": "rom",
+      "filename": "Dyna Brothers (Japan) [T-En by Tybis v0.1][i].zip"
+    },
+    {
+      "id": "ia-md-dynamite-headdy-usa-europe",
+      "name": "Dynamite Headdy (USA, Europe)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Dynamite%20Headdy%20%28USA%2C%20Europe%29.zip",
+      "size": 1397080,
+      "type": "rom",
+      "filename": "Dynamite Headdy (USA, Europe).zip"
+    },
+    {
+      "id": "ia-md-earthworm-jim-usa",
+      "name": "Earthworm Jim (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Earthworm%20Jim%20%28USA%29.zip",
+      "size": 1903311,
+      "type": "rom",
+      "filename": "Earthworm Jim (USA).zip"
+    },
+    {
+      "id": "ia-md-earthworm-jim-2-usa",
+      "name": "Earthworm Jim 2 (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Earthworm%20Jim%202%20%28USA%29.zip",
+      "size": 1795152,
+      "type": "rom",
+      "filename": "Earthworm Jim 2 (USA).zip"
+    },
+    {
+      "id": "ia-md-ecco-the-tides-of-time-usa",
+      "name": "Ecco - The Tides of Time (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Ecco%20-%20The%20Tides%20of%20Time%20%28USA%29.zip",
+      "size": 1229246,
+      "type": "rom",
+      "filename": "Ecco - The Tides of Time (USA).zip"
+    },
+    {
+      "id": "ia-md-ecco-the-dolphin-usa-europe",
+      "name": "Ecco the Dolphin (USA, Europe)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Ecco%20the%20Dolphin%20%28USA%2C%20Europe%29.zip",
+      "size": 516349,
+      "type": "rom",
+      "filename": "Ecco the Dolphin (USA, Europe).zip"
+    },
+    {
+      "id": "ia-md-el.viento-usa-t-it-by-raviolo-v1.0",
+      "name": "El.Viento (USA) [T-It by Raviolo v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/El.Viento%20%28USA%29%20%5BT-It%20by%20Raviolo%20v1.0%5D.zip",
+      "size": 679901,
+      "type": "rom",
+      "filename": "El.Viento (USA) [T-It by Raviolo v1.0].zip"
+    },
+    {
+      "id": "ia-md-f1-circus-md-japan-t-en-by-mrrichard999-agentorange-themaj",
+      "name": "F1 Circus MD (Japan) [T-En by MrRichard999 & AgentOrange & TheMajinZenki v0.95b]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/F1%20Circus%20MD%20%28Japan%29%20%5BT-En%20by%20MrRichard999%20%26%20AgentOrange%20%26%20TheMajinZenki%20v0.95b%5D.zip",
+      "size": 331081,
+      "type": "rom",
+      "filename": "F1 Circus MD (Japan) [T-En by MrRichard999 & AgentOrange & TheMajinZenki v0.95b].zip"
+    },
+    {
+      "id": "ia-md-fifa-2003-unknown-es-pirate",
+      "name": "FIFA 2003 (Unknown) (Es) (Pirate)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/FIFA%202003%20%28Unknown%29%20%28Es%29%20%28Pirate%29.zip",
+      "size": 1152056,
+      "type": "rom",
+      "filename": "FIFA 2003 (Unknown) (Es) (Pirate).zip"
+    },
+    {
+      "id": "ia-md-fifa-98-road-to-world-cup-europe-en-fr-es-it-sv",
+      "name": "FIFA 98 - Road to World Cup (Europe) (En,Fr,Es,It,Sv)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/FIFA%2098%20-%20Road%20to%20World%20Cup%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%2CSv%29.zip",
+      "size": 1089570,
+      "type": "rom",
+      "filename": "FIFA 98 - Road to World Cup (Europe) (En,Fr,Es,It,Sv).zip"
+    },
+    {
+      "id": "ia-md-fifa-international-soccer-japan-en-ja",
+      "name": "FIFA International Soccer (Japan) (En,Ja)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/FIFA%20International%20Soccer%20%28Japan%29%20%28En%2CJa%29.zip",
+      "size": 972735,
+      "type": "rom",
+      "filename": "FIFA International Soccer (Japan) (En,Ja).zip"
+    },
+    {
+      "id": "ia-md-fifa-soccer-2000-russia-en-fr-de-es-it-sv-pirate",
+      "name": "FIFA Soccer 2000 (Russia) (En,Fr,De,Es,It,Sv) (Pirate)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/FIFA%20Soccer%202000%20%28Russia%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%29%20%28Pirate%29.zip",
+      "size": 1103718,
+      "type": "rom",
+      "filename": "FIFA Soccer 2000 (Russia) (En,Fr,De,Es,It,Sv) (Pirate).zip"
+    },
+    {
+      "id": "ia-md-fifa-soccer-95-usa-europe-en-fr-de-es",
+      "name": "FIFA Soccer 95 (USA, Europe) (En,Fr,De,Es)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/FIFA%20Soccer%2095%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%29.zip",
+      "size": 1163487,
+      "type": "rom",
+      "filename": "FIFA Soccer 95 (USA, Europe) (En,Fr,De,Es).zip"
+    },
+    {
+      "id": "ia-md-fifa-soccer-96-usa-europe-en-fr-de-es-it-sv",
+      "name": "FIFA Soccer 96 (USA, Europe) (En,Fr,De,Es,It,Sv)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/FIFA%20Soccer%2096%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%29.zip",
+      "size": 1132703,
+      "type": "rom",
+      "filename": "FIFA Soccer 96 (USA, Europe) (En,Fr,De,Es,It,Sv).zip"
+    },
+    {
+      "id": "ia-md-fifa-soccer-97-usa-europe-en-fr-de-es-it-sv",
+      "name": "FIFA Soccer 97 (USA, Europe) (En,Fr,De,Es,It,Sv)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/FIFA%20Soccer%2097%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%29.zip",
+      "size": 1101541,
+      "type": "rom",
+      "filename": "FIFA Soccer 97 (USA, Europe) (En,Fr,De,Es,It,Sv).zip"
+    },
+    {
+      "id": "ia-md-fifa-soccer-99-unknown-pirate",
+      "name": "FIFA Soccer 99 (Unknown) (Pirate)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/FIFA%20Soccer%2099%20%28Unknown%29%20%28Pirate%29.zip",
+      "size": 1133552,
+      "type": "rom",
+      "filename": "FIFA Soccer 99 (Unknown) (Pirate).zip"
+    },
+    {
+      "id": "ia-md-fantasia-world-rev-a",
+      "name": "Fantasia (World) (Rev A)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Fantasia%20%28World%29%20%28Rev%20A%29.zip",
+      "size": 282089,
+      "type": "rom",
+      "filename": "Fantasia (World) (Rev A).zip"
+    },
+    {
+      "id": "ia-md-fantasy-zone-world-mega-drive-mini-2-patched",
+      "name": "Fantasy Zone (World) (Mega Drive Mini 2) [Patched]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Fantasy%20Zone%20%28World%29%20%28Mega%20Drive%20Mini%202%29%20%5BPatched%5D.zip",
+      "size": 639073,
+      "type": "rom",
+      "filename": "Fantasy Zone (World) (Mega Drive Mini 2) [Patched].zip"
+    },
+    {
+      "id": "ia-md-fatal-fury-2-usa-korea-color-hack-by-pyron-v4.0",
+      "name": "Fatal Fury 2 (USA, Korea) [Color hack by Pyron v4.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Fatal%20Fury%202%20%28USA%2C%20Korea%29%20%5BColor%20hack%20by%20Pyron%20v4.0%5D.zip",
+      "size": 1744218,
+      "type": "rom",
+      "filename": "Fatal Fury 2 (USA, Korea) [Color hack by Pyron v4.0].zip"
+    },
+    {
+      "id": "ia-md-fix-it-felix-jr.-world-aftermarket-pirate",
+      "name": "Fix-It Felix Jr. (World) (Aftermarket) (Pirate)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Fix-It%20Felix%20Jr.%20%28World%29%20%28Aftermarket%29%20%28Pirate%29.zip",
+      "size": 197679,
+      "type": "rom",
+      "filename": "Fix-It Felix Jr. (World) (Aftermarket) (Pirate).zip"
+    },
+    {
+      "id": "ia-md-flashback-the-quest-for-identity-usa",
+      "name": "Flashback - The Quest for Identity (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Flashback%20-%20The%20Quest%20for%20Identity%20%28USA%29.zip",
+      "size": 980690,
+      "type": "rom",
+      "filename": "Flashback - The Quest for Identity (USA).zip"
+    },
+    {
+      "id": "ia-md-flicky-usa-europe",
+      "name": "Flicky (USA, Europe)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Flicky%20%28USA%2C%20Europe%29.zip",
+      "size": 43430,
+      "type": "rom",
+      "filename": "Flicky (USA, Europe).zip"
+    },
+    {
+      "id": "ia-md-forgotten-worlds-world",
+      "name": "Forgotten Worlds (World)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Forgotten%20Worlds%20%28World%29.zip",
+      "size": 385914,
+      "type": "rom",
+      "filename": "Forgotten Worlds (World).zip"
+    },
+    {
+      "id": "ia-md-formula-one-usa",
+      "name": "Formula One (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Formula%20One%20%28USA%29.zip",
+      "size": 450364,
+      "type": "rom",
+      "filename": "Formula One (USA).zip"
+    },
+    {
+      "id": "ia-md-foxy-land-world-aftermarket-unl",
+      "name": "Foxy Land (World) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Foxy%20Land%20%28World%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 827561,
+      "type": "rom",
+      "filename": "Foxy Land (World) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-galaxy-force-ii-world-rev-b",
+      "name": "Galaxy Force II (World) (Rev B)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Galaxy%20Force%20II%20%28World%29%20%28Rev%20B%29.zip",
+      "size": 433299,
+      "type": "rom",
+      "filename": "Galaxy Force II (World) (Rev B).zip"
+    },
+    {
+      "id": "ia-md-garfield-caught-in-the-act-usa-europe",
+      "name": "Garfield - Caught in the Act (USA, Europe)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Garfield%20-%20Caught%20in%20the%20Act%20%28USA%2C%20Europe%29.zip",
+      "size": 461060,
+      "type": "rom",
+      "filename": "Garfield - Caught in the Act (USA, Europe).zip"
+    },
+    {
+      "id": "ia-md-gauntlet-iv-usa-europe-en-ja",
+      "name": "Gauntlet IV (USA, Europe) (En,Ja)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Gauntlet%20IV%20%28USA%2C%20Europe%29%20%28En%2CJa%29.zip",
+      "size": 541327,
+      "type": "rom",
+      "filename": "Gauntlet IV (USA, Europe) (En,Ja).zip"
+    },
+    {
+      "id": "ia-md-generals-of-the-yang-family-clan-of-heroes-usa-aftermarket",
+      "name": "Generals of the Yang Family - Clan of Heroes (USA) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Generals%20of%20the%20Yang%20Family%20-%20Clan%20of%20Heroes%20%28USA%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 672128,
+      "type": "rom",
+      "filename": "Generals of the Yang Family - Clan of Heroes (USA) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-genesis-bios",
+      "name": "Genesis BIOS",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Genesis%20BIOS.zip",
+      "size": 1921,
+      "type": "rom",
+      "filename": "Genesis BIOS.zip"
+    },
+    {
+      "id": "ia-md-ghostbusters-usa-europe-special-edition-hack-by-billytime",
+      "name": "Ghostbusters (USA, Europe) [Special edition hack by BillyTime! Games v1.2c] [Ectoplasm] [Ultra Nightmare Mode]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Ghostbusters%20%28USA%2C%20Europe%29%20%5BSpecial%20edition%20hack%20by%20BillyTime%21%20Games%20v1.2c%5D%20%5BEctoplasm%5D%20%5BUltra%20Nightmare%20Mode%5D.zip",
+      "size": 409282,
+      "type": "rom",
+      "filename": "Ghostbusters (USA, Europe) [Special edition hack by BillyTime! Games v1.2c] [Ectoplasm] [Ultra Nightmare Mode].zip"
+    },
+    {
+      "id": "ia-md-ghouls-n-ghosts-world-rev-a",
+      "name": "Ghouls'n Ghosts (World) (Rev A)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Ghouls%27n%20Ghosts%20%28World%29%20%28Rev%20A%29.zip",
+      "size": 442377,
+      "type": "rom",
+      "filename": "Ghouls'n Ghosts (World) (Rev A).zip"
+    },
+    {
+      "id": "ia-md-golden-axe-world-color-hack-by-pyron-v1.0",
+      "name": "Golden Axe (World) [Color hack by Pyron v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Golden%20Axe%20%28World%29%20%5BColor%20hack%20by%20Pyron%20v1.0%5D.zip",
+      "size": 340307,
+      "type": "rom",
+      "filename": "Golden Axe (World) [Color hack by Pyron v1.0].zip"
+    },
+    {
+      "id": "ia-md-golden-axe-ii-world-color-hack-by-pyron-v1.0",
+      "name": "Golden Axe II (World) [Color hack by Pyron v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Golden%20Axe%20II%20%28World%29%20%5BColor%20hack%20by%20Pyron%20v1.0%5D.zip",
+      "size": 327176,
+      "type": "rom",
+      "filename": "Golden Axe II (World) [Color hack by Pyron v1.0].zip"
+    },
+    {
+      "id": "ia-md-golden-axe-iii-japan-en-color-hack-by-dolsilwa-v1.0",
+      "name": "Golden Axe III (Japan) (En) [Color hack by Dolsilwa v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Golden%20Axe%20III%20%28Japan%29%20%28En%29%20%5BColor%20hack%20by%20Dolsilwa%20v1.0%5D.zip",
+      "size": 675169,
+      "type": "rom",
+      "filename": "Golden Axe III (Japan) (En) [Color hack by Dolsilwa v1.0].zip"
+    },
+    {
+      "id": "ia-md-gunstar-heroes-usa",
+      "name": "Gunstar Heroes (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Gunstar%20Heroes%20%28USA%29.zip",
+      "size": 661835,
+      "type": "rom",
+      "filename": "Gunstar Heroes (USA).zip"
+    },
+    {
+      "id": "ia-md-gynoug-japan",
+      "name": "Gynoug (Japan)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Gynoug%20%28Japan%29.zip",
+      "size": 288815,
+      "type": "rom",
+      "filename": "Gynoug (Japan).zip"
+    },
+    {
+      "id": "ia-md-hokuto-no-ken-shin-seikimatsu-kyuuseishu-densetsu-japan-t",
+      "name": "Hokuto no Ken - Shin Seikimatsu Kyuuseishu Densetsu (Japan) [T-En by Ernani S. Costa v2.1.2] [Revisited]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Hokuto%20no%20Ken%20-%20Shin%20Seikimatsu%20Kyuuseishu%20Densetsu%20%28Japan%29%20%5BT-En%20by%20Ernani%20S.%20Costa%20v2.1.2%5D%20%5BRevisited%5D.zip",
+      "size": 317204,
+      "type": "rom",
+      "filename": "Hokuto no Ken - Shin Seikimatsu Kyuuseishu Densetsu (Japan) [T-En by Ernani S. Costa v2.1.2] [Revisited].zip"
+    },
+    {
+      "id": "ia-md-hook-usa",
+      "name": "Hook (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Hook%20%28USA%29.zip",
+      "size": 419409,
+      "type": "rom",
+      "filename": "Hook (USA).zip"
+    },
+    {
+      "id": "ia-md-ik-deluxe-world-aftermarket-unl",
+      "name": "IK+ Deluxe (World) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/IK%2B%20Deluxe%20%28World%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 569036,
+      "type": "rom",
+      "filename": "IK+ Deluxe (World) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-insector-x-usa",
+      "name": "Insector X (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Insector%20X%20%28USA%29.zip",
+      "size": 220209,
+      "type": "rom",
+      "filename": "Insector X (USA).zip"
+    },
+    {
+      "id": "ia-md-international-sensible-soccer-europe-en-fr-de-it",
+      "name": "International Sensible Soccer (Europe) (En,Fr,De,It)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/International%20Sensible%20Soccer%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%29.zip",
+      "size": 224482,
+      "type": "rom",
+      "filename": "International Sensible Soccer (Europe) (En,Fr,De,It).zip"
+    },
+    {
+      "id": "ia-md-international-superstar-soccer-deluxe-europe-brazil-en",
+      "name": "International Superstar Soccer Deluxe (Europe, Brazil) (En)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/International%20Superstar%20Soccer%20Deluxe%20%28Europe%2C%20Brazil%29%20%28En%29.zip",
+      "size": 1205323,
+      "type": "rom",
+      "filename": "International Superstar Soccer Deluxe (Europe, Brazil) (En).zip"
+    },
+    {
+      "id": "ia-md-james-pond-underwater-agent-usa-europe",
+      "name": "James Pond - Underwater Agent (USA, Europe)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/James%20Pond%20-%20Underwater%20Agent%20%28USA%2C%20Europe%29.zip",
+      "size": 200955,
+      "type": "rom",
+      "filename": "James Pond - Underwater Agent (USA, Europe).zip"
+    },
+    {
+      "id": "ia-md-james-pond-3-usa-europe",
+      "name": "James Pond 3 (USA, Europe)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/James%20Pond%203%20%28USA%2C%20Europe%29.zip",
+      "size": 1250061,
+      "type": "rom",
+      "filename": "James Pond 3 (USA, Europe).zip"
+    },
+    {
+      "id": "ia-md-james-pond-ii-codename-robocod-usa-europe",
+      "name": "James Pond II - Codename - Robocod (USA, Europe)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/James%20Pond%20II%20-%20Codename%20-%20Robocod%20%28USA%2C%20Europe%29.zip",
+      "size": 293699,
+      "type": "rom",
+      "filename": "James Pond II - Codename - Robocod (USA, Europe).zip"
+    },
+    {
+      "id": "ia-md-jim-power-the-lost-dimension-in-3d-world-aftermarket-unl",
+      "name": "Jim Power - The Lost Dimension in 3D (World) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Jim%20Power%20-%20The%20Lost%20Dimension%20in%203D%20%28World%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 646978,
+      "type": "rom",
+      "filename": "Jim Power - The Lost Dimension in 3D (World) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-joe-mac-usa-color-hack-by-pyron-v3.0",
+      "name": "Joe & Mac (USA) [Color hack by Pyron v3.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Joe%20%26%20Mac%20%28USA%29%20%5BColor%20hack%20by%20Pyron%20v3.0%5D.zip",
+      "size": 612540,
+      "type": "rom",
+      "filename": "Joe & Mac (USA) [Color hack by Pyron v3.0].zip"
+    },
+    {
+      "id": "ia-md-kid-chameleon-usa-europe",
+      "name": "Kid Chameleon (USA, Europe)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Kid%20Chameleon%20%28USA%2C%20Europe%29.zip",
+      "size": 747067,
+      "type": "rom",
+      "filename": "Kid Chameleon (USA, Europe).zip"
+    },
+    {
+      "id": "ia-md-kishi-densetsu-japan-t-en-by-gaijin-productions-v0.20-i",
+      "name": "Kishi Densetsu (Japan) [T-En by Gaijin Productions v0.20] [i]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Kishi%20Densetsu%20%28Japan%29%20%5BT-En%20by%20Gaijin%20Productions%20v0.20%5D%20%5Bi%5D.zip",
+      "size": 470592,
+      "type": "rom",
+      "filename": "Kishi Densetsu (Japan) [T-En by Gaijin Productions v0.20] [i].zip"
+    },
+    {
+      "id": "ia-md-krusty-s-super-fun-house-usa-europe-rev-a",
+      "name": "Krusty's Super Fun House (USA, Europe) (Rev A)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Krusty%27s%20Super%20Fun%20House%20%28USA%2C%20Europe%29%20%28Rev%20A%29.zip",
+      "size": 271778,
+      "type": "rom",
+      "filename": "Krusty's Super Fun House (USA, Europe) (Rev A).zip"
+    },
+    {
+      "id": "ia-md-kyuukyoku-tiger-japan-color-hack-by-fusaru-v2.00",
+      "name": "Kyuukyoku Tiger (Japan) [Color hack by Fusaru v2.00]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Kyuukyoku%20Tiger%20%28Japan%29%20%5BColor%20hack%20by%20Fusaru%20v2.00%5D.zip",
+      "size": 387677,
+      "type": "rom",
+      "filename": "Kyuukyoku Tiger (Japan) [Color hack by Fusaru v2.00].zip"
+    },
+    {
+      "id": "ia-md-landstalker-the-treasures-of-king-nole-europe-t-it-by-gufi",
+      "name": "Landstalker - The Treasures of King Nole (Europe) [T-It by Gufino2 v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Landstalker%20-%20The%20Treasures%20of%20King%20Nole%20%28Europe%29%20%5BT-It%20by%20Gufino2%20v1.0%5D.zip",
+      "size": 1387572,
+      "type": "rom",
+      "filename": "Landstalker - The Treasures of King Nole (Europe) [T-It by Gufino2 v1.0].zip"
+    },
+    {
+      "id": "ia-md-langrisser-usa-t-en-by-d-v20010219-add-by-jon-najar-v07010",
+      "name": "Langrisser (USA) [T-En by D v20010219] [Add by Jon Najar v070103] [n]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Langrisser%20%28USA%29%20%5BT-En%20by%20D%20v20010219%5D%20%5BAdd%20by%20Jon%20Najar%20v070103%5D%20%5Bn%5D.zip",
+      "size": 290953,
+      "type": "rom",
+      "filename": "Langrisser (USA) [T-En by D v20010219] [Add by Jon Najar v070103] [n].zip"
+    },
+    {
+      "id": "ia-md-langrisser-ii-japan-rev-b-t-en-by-m.i.j.e.t.-v110701",
+      "name": "Langrisser II (Japan) (Rev B) [T-En by M.I.J.E.T. v110701]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Langrisser%20II%20%28Japan%29%20%28Rev%20B%29%20%5BT-En%20by%20M.I.J.E.T.%20v110701%5D.zip",
+      "size": 1091774,
+      "type": "rom",
+      "filename": "Langrisser II (Japan) (Rev B) [T-En by M.I.J.E.T. v110701].zip"
+    },
+    {
+      "id": "ia-md-legend-of-galahad-the-usa-europe",
+      "name": "Legend of Galahad, The (USA, Europe)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Legend%20of%20Galahad%2C%20The%20%28USA%2C%20Europe%29.zip",
+      "size": 703302,
+      "type": "rom",
+      "filename": "Legend of Galahad, The (USA, Europe).zip"
+    },
+    {
+      "id": "ia-md-light-crusader-usa-t-it-by-trap-v2.01",
+      "name": "Light Crusader (USA) [T-It by Trap v2.01]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Light%20Crusader%20%28USA%29%20%5BT-It%20by%20Trap%20v2.01%5D.zip",
+      "size": 1182422,
+      "type": "rom",
+      "filename": "Light Crusader (USA) [T-It by Trap v2.01].zip"
+    },
+    {
+      "id": "ia-md-lion-king-the-world-color-hack-by-pyron-v1.0-add-by-kenoi",
+      "name": "Lion King, The (World) [Color hack by Pyron v1.0] [Add by kenoi v1.1]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Lion%20King%2C%20The%20%28World%29%20%5BColor%20hack%20by%20Pyron%20v1.0%5D%20%5BAdd%20by%20kenoi%20v1.1%5D.zip",
+      "size": 1545819,
+      "type": "rom",
+      "filename": "Lion King, The (World) [Color hack by Pyron v1.0] [Add by kenoi v1.1].zip"
+    },
+    {
+      "id": "ia-md-lord-monarch-legendary-battle-royale-japan-t-en-by-nebulou",
+      "name": "Lord Monarch - Legendary Battle Royale (Japan) [T-En by Nebulous Translations v1.0] [n]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Lord%20Monarch%20-%20Legendary%20Battle%20Royale%20%28Japan%29%20%5BT-En%20by%20Nebulous%20Translations%20v1.0%5D%20%5Bn%5D.zip",
+      "size": 1320346,
+      "type": "rom",
+      "filename": "Lord Monarch - Legendary Battle Royale (Japan) [T-En by Nebulous Translations v1.0] [n].zip"
+    },
+    {
+      "id": "ia-md-lost-vikings-the-europe-en-fr-de",
+      "name": "Lost Vikings, The (Europe) (En,Fr,De)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Lost%20Vikings%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%29.zip",
+      "size": 676736,
+      "type": "rom",
+      "filename": "Lost Vikings, The (Europe) (En,Fr,De).zip"
+    },
+    {
+      "id": "ia-md-musha-metallic-uniframe-super-hybrid-armor-usa-level-selec",
+      "name": "MUSHA - Metallic Uniframe Super Hybrid Armor (USA) [Level select Enabled hack by SCD v.Final]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/MUSHA%20-%20Metallic%20Uniframe%20Super%20Hybrid%20Armor%20%28USA%29%20%5BLevel%20select%20Enabled%20hack%20by%20SCD%20v.Final%5D.zip",
+      "size": 383737,
+      "type": "rom",
+      "filename": "MUSHA - Metallic Uniframe Super Hybrid Armor (USA) [Level select Enabled hack by SCD v.Final].zip"
+    },
+    {
+      "id": "ia-md-mad-stalker-full-metal-forth-japan-en-columbus-circle-afte",
+      "name": "Mad Stalker - Full Metal Forth (Japan) (En) (Columbus Circle) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Mad%20Stalker%20-%20Full%20Metal%20Forth%20%28Japan%29%20%28En%29%20%28Columbus%20Circle%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 943125,
+      "type": "rom",
+      "filename": "Mad Stalker - Full Metal Forth (Japan) (En) (Columbus Circle) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-madou-monogatari-i-japan-t-en-by-lipemco-translations-v1.1",
+      "name": "Madou Monogatari I (Japan) [T-En by LIPEMCO Translations v1.1]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Madou%20Monogatari%20I%20%28Japan%29%20%5BT-En%20by%20LIPEMCO%20Translations%20v1.1%5D.zip",
+      "size": 1188814,
+      "type": "rom",
+      "filename": "Madou Monogatari I (Japan) [T-En by LIPEMCO Translations v1.1].zip"
+    },
+    {
+      "id": "ia-md-magic-pockets-usa-europe-aftermarket-unl",
+      "name": "Magic Pockets (USA, Europe) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Magic%20Pockets%20%28USA%2C%20Europe%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 924252,
+      "type": "rom",
+      "filename": "Magic Pockets (USA, Europe) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-magical-hat-no-buttobi-turbo-daibouken-japan-t-en-by-tryph",
+      "name": "Magical Hat no Buttobi Turbo! Daibouken (Japan) [T-En by Tryphon v0.1]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Magical%20Hat%20no%20Buttobi%20Turbo%21%20Daibouken%20%28Japan%29%20%5BT-En%20by%20Tryphon%20v0.1%5D.zip",
+      "size": 218527,
+      "type": "rom",
+      "filename": "Magical Hat no Buttobi Turbo! Daibouken (Japan) [T-En by Tryphon v0.1].zip"
+    },
+    {
+      "id": "ia-md-magical-kid-taruruto-t-en-by-tryphon-v.alpha-ml-n",
+      "name": "Magical Kid Taruruto [T-En by tryphon v.alpha-ml] [n]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Magical%20Kid%20Taruruto%20%5BT-En%20by%20tryphon%20v.alpha-ml%5D%20%5Bn%5D.zip",
+      "size": 422303,
+      "type": "rom",
+      "filename": "Magical Kid Taruruto [T-En by tryphon v.alpha-ml] [n].zip"
+    },
+    {
+      "id": "ia-md-marvel-land-usa",
+      "name": "Marvel Land (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Marvel%20Land%20%28USA%29.zip",
+      "size": 487184,
+      "type": "rom",
+      "filename": "Marvel Land (USA).zip"
+    },
+    {
+      "id": "ia-md-mazin-saga-asia-en",
+      "name": "Mazin Saga (Asia) (En)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Mazin%20Saga%20%28Asia%29%20%28En%29.zip",
+      "size": 687456,
+      "type": "rom",
+      "filename": "Mazin Saga (Asia) (En).zip"
+    },
+    {
+      "id": "ia-md-mega-bomberman-usa",
+      "name": "Mega Bomberman (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Mega%20Bomberman%20%28USA%29.zip",
+      "size": 537838,
+      "type": "rom",
+      "filename": "Mega Bomberman (USA).zip"
+    },
+    {
+      "id": "ia-md-mega-man-the-sequel-wars-episode-red-world-v1.1-aftermarke",
+      "name": "Mega Man - The Sequel Wars - Episode Red (World) (v1.1) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Mega%20Man%20-%20The%20Sequel%20Wars%20-%20Episode%20Red%20%28World%29%20%28v1.1%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 1833023,
+      "type": "rom",
+      "filename": "Mega Man - The Sequel Wars - Episode Red (World) (v1.1) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-mega-man-the-wily-wars-europe-sram-flow-60hz-rf-slide-ammo",
+      "name": "Mega Man - The Wily Wars (Europe) [SRAM+ Flow 60Hz+RF+Slide+Ammo+5 Bullets On Screen by Ar8temis008 v0.5]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Mega%20Man%20-%20The%20Wily%20Wars%20%28Europe%29%20%5BSRAM%2B%20Flow%2060Hz%2BRF%2BSlide%2BAmmo%2B5%20Bullets%20On%20Screen%20by%20Ar8temis008%20v0.5%5D.zip",
+      "size": 937087,
+      "type": "rom",
+      "filename": "Mega Man - The Wily Wars (Europe) [SRAM+ Flow 60Hz+RF+Slide+Ammo+5 Bullets On Screen by Ar8temis008 v0.5].zip"
+    },
+    {
+      "id": "ia-md-mega-swiv-europe-snes-colors-ntsc-patched-v1.05-fusaru-v1",
+      "name": "Mega SWIV (Europe) [SNES Colors+NTSC Patched v1.05 fusaru, v1 60Hz SmokeMonster]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Mega%20SWIV%20%28Europe%29%20%5BSNES%20Colors%2BNTSC%20Patched%20v1.05%20fusaru%2C%20v1%2060Hz%20SmokeMonster%5D.zip",
+      "size": 490104,
+      "type": "rom",
+      "filename": "Mega SWIV (Europe) [SNES Colors+NTSC Patched v1.05 fusaru, v1 60Hz SmokeMonster].zip"
+    },
+    {
+      "id": "ia-md-mega-turrican-usa",
+      "name": "Mega Turrican (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Mega%20Turrican%20%28USA%29.zip",
+      "size": 589688,
+      "type": "rom",
+      "filename": "Mega Turrican (USA).zip"
+    },
+    {
+      "id": "ia-md-mega-turrican-director-s-cut-world-aftermarket-unl",
+      "name": "Mega Turrican - Director's Cut (World) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Mega%20Turrican%20-%20Director%27s%20Cut%20%28World%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 1110606,
+      "type": "rom",
+      "filename": "Mega Turrican - Director's Cut (World) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-metal-blast-2277-world-aftermarket-unl",
+      "name": "Metal Blast 2277 (World) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Metal%20Blast%202277%20%28World%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 523067,
+      "type": "rom",
+      "filename": "Metal Blast 2277 (World) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-metal-dragon-world-aftermarket-unl",
+      "name": "Metal Dragon (World) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Metal%20Dragon%20%28World%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 1004693,
+      "type": "rom",
+      "filename": "Metal Dragon (World) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-mickey-mania-the-timeless-adventures-of-mickey-mouse-usa",
+      "name": "Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Mickey%20Mania%20-%20The%20Timeless%20Adventures%20of%20Mickey%20Mouse%20%28USA%29.zip",
+      "size": 1282150,
+      "type": "rom",
+      "filename": "Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).zip"
+    },
+    {
+      "id": "ia-md-micro-machines-europe-t-it-by-rulesless-v1.0",
+      "name": "Micro Machines (Europe) [T-It by Rulesless v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Micro%20Machines%20%28Europe%29%20%5BT-It%20by%20Rulesless%20v1.0%5D.zip",
+      "size": 324645,
+      "type": "rom",
+      "filename": "Micro Machines (Europe) [T-It by Rulesless v1.0].zip"
+    },
+    {
+      "id": "ia-md-midnight-resistance-usa-color-hack-by-pyron-v1.0",
+      "name": "Midnight Resistance (USA) [Color hack by Pyron v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Midnight%20Resistance%20%28USA%29%20%5BColor%20hack%20by%20Pyron%20v1.0%5D.zip",
+      "size": 332809,
+      "type": "rom",
+      "filename": "Midnight Resistance (USA) [Color hack by Pyron v1.0].zip"
+    },
+    {
+      "id": "ia-md-midway-presents-arcade-s-greatest-hits-europe",
+      "name": "Midway Presents Arcade's Greatest Hits (Europe)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Midway%20Presents%20Arcade%27s%20Greatest%20Hits%20%28Europe%29.zip",
+      "size": 271796,
+      "type": "rom",
+      "filename": "Midway Presents Arcade's Greatest Hits (Europe).zip"
+    },
+    {
+      "id": "ia-md-mighty-morphin-power-rangers-the-movie-usa-color-hack-by-p",
+      "name": "Mighty Morphin Power Rangers - The Movie (USA) [Color hack by Pyron v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Mighty%20Morphin%20Power%20Rangers%20-%20The%20Movie%20%28USA%29%20%5BColor%20hack%20by%20Pyron%20v1.0%5D.zip",
+      "size": 981358,
+      "type": "rom",
+      "filename": "Mighty Morphin Power Rangers - The Movie (USA) [Color hack by Pyron v1.0].zip"
+    },
+    {
+      "id": "ia-md-monster-world-iv-japan-t-it-by-disommamichele-v1.2",
+      "name": "Monster World IV (Japan) [T-It by DiSommaMichele v1.2]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Monster%20World%20IV%20%28Japan%29%20%5BT-It%20by%20DiSommaMichele%20v1.2%5D.zip",
+      "size": 1001463,
+      "type": "rom",
+      "filename": "Monster World IV (Japan) [T-It by DiSommaMichele v1.2].zip"
+    },
+    {
+      "id": "ia-md-mortal-kombat-usa-europe-rev-a-beta-arcade-edition-hack-by",
+      "name": "Mortal Kombat (USA, Europe) (Rev A) (Beta) [Arcade Edition Hack by Linkuei v1.0a][Addendum by Rael G.C. v2.2]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Mortal%20Kombat%20%28USA%2C%20Europe%29%20%28Rev%20A%29%20%28Beta%29%20%5BArcade%20Edition%20Hack%20by%20Linkuei%20v1.0a%5D%5BAddendum%20by%20Rael%20G.C.%20v2.2%5D.zip",
+      "size": 2124217,
+      "type": "rom",
+      "filename": "Mortal Kombat (USA, Europe) (Rev A) (Beta) [Arcade Edition Hack by Linkuei v1.0a][Addendum by Rael G.C. v2.2].zip"
+    },
+    {
+      "id": "ia-md-mortal-kombat-3-usa",
+      "name": "Mortal Kombat 3 (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Mortal%20Kombat%203%20%28USA%29.zip",
+      "size": 3357831,
+      "type": "rom",
+      "filename": "Mortal Kombat 3 (USA).zip"
+    },
+    {
+      "id": "ia-md-mortal-kombat-ii-world",
+      "name": "Mortal Kombat II (World)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Mortal%20Kombat%20II%20%28World%29.zip",
+      "size": 2357036,
+      "type": "rom",
+      "filename": "Mortal Kombat II (World).zip"
+    },
+    {
+      "id": "ia-md-mr.-nutz-europe-resolution-increase-hack-by-disommamichele",
+      "name": "Mr. Nutz (Europe) [Resolution increase hack by DiSommaMichele v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Mr.%20Nutz%20%28Europe%29%20%5BResolution%20increase%20hack%20by%20DiSommaMichele%20v1.0%5D.zip",
+      "size": 735652,
+      "type": "rom",
+      "filename": "Mr. Nutz (Europe) [Resolution increase hack by DiSommaMichele v1.0].zip"
+    },
+    {
+      "id": "ia-md-nhl-94-usa-europe-2023-edition-hack-by-adam-catalyst-v4.1",
+      "name": "NHL '94 (USA, Europe) [2023 Edition hack by Adam Catalyst v4.1]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/NHL%20%2794%20%28USA%2C%20Europe%29%20%5B2023%20Edition%20hack%20by%20Adam%20Catalyst%20v4.1%5D.zip",
+      "size": 749414,
+      "type": "rom",
+      "filename": "NHL '94 (USA, Europe) [2023 Edition hack by Adam Catalyst v4.1].zip"
+    },
+    {
+      "id": "ia-md-nadia-the-secret-of-blue-water-japan-t-en-by-eien-ni-hen-k",
+      "name": "Nadia - The Secret of Blue Water (Japan) [T-En by Eien Ni Hen & KingMike v1.1] [n]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Nadia%20-%20The%20Secret%20of%20Blue%20Water%20%28Japan%29%20%5BT-En%20by%20Eien%20Ni%20Hen%20%26%20KingMike%20v1.1%5D%20%5Bn%5D.zip",
+      "size": 841933,
+      "type": "rom",
+      "filename": "Nadia - The Secret of Blue Water (Japan) [T-En by Eien Ni Hen & KingMike v1.1] [n].zip"
+    },
+    {
+      "id": "ia-md-newzealand-story-the-japan",
+      "name": "NewZealand Story, The (Japan)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/NewZealand%20Story%2C%20The%20%28Japan%29.zip",
+      "size": 223964,
+      "type": "rom",
+      "filename": "NewZealand Story, The (Japan).zip"
+    },
+    {
+      "id": "ia-md-ninja-gaiden-japan-en-proto-control-hack-by-segaman-v1.0",
+      "name": "Ninja Gaiden (Japan) (En) (Proto) [Control Hack by Segaman v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Ninja%20Gaiden%20%28Japan%29%20%28En%29%20%28Proto%29%20%5BControl%20Hack%20by%20Segaman%20v1.0%5D.zip",
+      "size": 409849,
+      "type": "rom",
+      "filename": "Ninja Gaiden (Japan) (En) (Proto) [Control Hack by Segaman v1.0].zip"
+    },
+    {
+      "id": "ia-md-onslaught-usa-europe-unl-tmss-bypass-patch-by-keeper7-v1",
+      "name": "Onslaught (USA, Europe) (Unl) [TMSS Bypass Patch by Keeper7 v1]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Onslaught%20%28USA%2C%20Europe%29%20%28Unl%29%20%5BTMSS%20Bypass%20Patch%20by%20Keeper7%20v1%5D.zip",
+      "size": 231496,
+      "type": "rom",
+      "filename": "Onslaught (USA, Europe) (Unl) [TMSS Bypass Patch by Keeper7 v1].zip"
+    },
+    {
+      "id": "ia-md-out-of-this-world-usa",
+      "name": "Out of This World (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Out%20of%20This%20World%20%28USA%29.zip",
+      "size": 516434,
+      "type": "rom",
+      "filename": "Out of This World (USA).zip"
+    },
+    {
+      "id": "ia-md-outrun-usa-europe-color-hack-by-tor-landeel-v2.1",
+      "name": "OutRun (USA, Europe) [Color hack by Tor Landeel v2.1]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/OutRun%20%28USA%2C%20Europe%29%20%5BColor%20hack%20by%20Tor%20Landeel%20v2.1%5D.zip",
+      "size": 499151,
+      "type": "rom",
+      "filename": "OutRun (USA, Europe) [Color hack by Tor Landeel v2.1].zip"
+    },
+    {
+      "id": "ia-md-outrunners-usa",
+      "name": "OutRunners (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/OutRunners%20%28USA%29.zip",
+      "size": 1055502,
+      "type": "rom",
+      "filename": "OutRunners (USA).zip"
+    },
+    {
+      "id": "ia-md-pac-mania-usa-europe-color-hack-by-fusaru-v1.00",
+      "name": "Pac-Mania (USA, Europe) [Color hack by Fusaru v1.00]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Pac-Mania%20%28USA%2C%20Europe%29%20%5BColor%20hack%20by%20Fusaru%20v1.00%5D.zip",
+      "size": 72034,
+      "type": "rom",
+      "filename": "Pac-Mania (USA, Europe) [Color hack by Fusaru v1.00].zip"
+    },
+    {
+      "id": "ia-md-panorama-cotton-usa-aftermarket-unl",
+      "name": "Panorama Cotton (USA) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Panorama%20Cotton%20%28USA%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 1316334,
+      "type": "rom",
+      "filename": "Panorama Cotton (USA) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-paperboy-usa-europe",
+      "name": "Paperboy (USA, Europe)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Paperboy%20%28USA%2C%20Europe%29.zip",
+      "size": 247574,
+      "type": "rom",
+      "filename": "Paperboy (USA, Europe).zip"
+    },
+    {
+      "id": "ia-md-paperboy-2-usa-europe",
+      "name": "Paperboy 2 (USA, Europe)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Paperboy%202%20%28USA%2C%20Europe%29.zip",
+      "size": 451841,
+      "type": "rom",
+      "filename": "Paperboy 2 (USA, Europe).zip"
+    },
+    {
+      "id": "ia-md-phantasy-star-ii-usa-europe-mega-drive-mini-2-patched",
+      "name": "Phantasy Star II (USA, Europe) (Mega Drive Mini 2) [Patched]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Phantasy%20Star%20II%20%28USA%2C%20Europe%29%20%28Mega%20Drive%20Mini%202%29%20%5BPatched%5D.zip",
+      "size": 466070,
+      "type": "rom",
+      "filename": "Phantasy Star II (USA, Europe) (Mega Drive Mini 2) [Patched].zip"
+    },
+    {
+      "id": "ia-md-phantasy-star-ii-usa-europe-rev-a-bugfixed-retranslated",
+      "name": "Phantasy Star II (USA, Europe) (Rev A) [Bugfixed+Retranslated]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Phantasy%20Star%20II%20%28USA%2C%20Europe%29%20%28Rev%20A%29%20%5BBugfixed%2BRetranslated%5D.zip",
+      "size": 465831,
+      "type": "rom",
+      "filename": "Phantasy Star II (USA, Europe) (Rev A) [Bugfixed+Retranslated].zip"
+    },
+    {
+      "id": "ia-md-phantasy-star-iii-generations-of-doom-usa-europe-retransla",
+      "name": "Phantasy Star III - Generations of Doom (USA, Europe) [Retranslation+bugfix]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Phantasy%20Star%20III%20-%20Generations%20of%20Doom%20%28USA%2C%20Europe%29%20%5BRetranslation%2Bbugfix%5D.zip",
+      "size": 458563,
+      "type": "rom",
+      "filename": "Phantasy Star III - Generations of Doom (USA, Europe) [Retranslation+bugfix].zip"
+    },
+    {
+      "id": "ia-md-phantasy-star-iii-successors-of-time-usa-europe-korea-t-en",
+      "name": "Phantasy Star III - Successors of Time (USA, Europe, Korea) [T-En by Peaches v1.2] [Parallax Patch] [Walk Speed Patch] [n]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Phantasy%20Star%20III%20-%20Successors%20of%20Time%20%28USA%2C%20Europe%2C%20Korea%29%20%5BT-En%20by%20Peaches%20v1.2%5D%20%5BParallax%20Patch%5D%20%5BWalk%20Speed%20Patch%5D%20%5Bn%5D.zip",
+      "size": 463639,
+      "type": "rom",
+      "filename": "Phantasy Star III - Successors of Time (USA, Europe, Korea) [T-En by Peaches v1.2] [Parallax Patch] [Walk Speed Patch] [n].zip"
+    },
+    {
+      "id": "ia-md-phantasy-star-iv-usa-t-en-by-ghaleonunlimited-v6.1-relocal",
+      "name": "Phantasy Star IV (USA) [T-En by GhaleonUnlimited v6.1] [Relocalized] [Purist]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Phantasy%20Star%20IV%20%28USA%29%20%5BT-En%20by%20GhaleonUnlimited%20v6.1%5D%20%5BRelocalized%5D%20%5BPurist%5D.zip",
+      "size": 2359773,
+      "type": "rom",
+      "filename": "Phantasy Star IV (USA) [T-En by GhaleonUnlimited v6.1] [Relocalized] [Purist].zip"
+    },
+    {
+      "id": "ia-md-pier-solar-and-the-great-architects-world-en-es-pt-rev-c-u",
+      "name": "Pier Solar and the Great Architects (World) (En,Es,Pt) (Rev C) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Pier%20Solar%20and%20the%20Great%20Architects%20%28World%29%20%28En%2CEs%2CPt%29%20%28Rev%20C%29%20%28Unl%29.zip",
+      "size": 4211389,
+      "type": "rom",
+      "filename": "Pier Solar and the Great Architects (World) (En,Es,Pt) (Rev C) (Unl).zip"
+    },
+    {
+      "id": "ia-md-pinocchio-usa",
+      "name": "Pinocchio (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Pinocchio%20%28USA%29.zip",
+      "size": 1451694,
+      "type": "rom",
+      "filename": "Pinocchio (USA).zip"
+    },
+    {
+      "id": "ia-md-power-drive-europe-en-fr-de-es-pt-t-it-by-rulesless-v1.0",
+      "name": "Power Drive (Europe) (En,Fr,De,Es,Pt) [T-It by Rulesless v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Power%20Drive%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CPt%29%20%5BT-It%20by%20Rulesless%20v1.0%5D.zip",
+      "size": 662670,
+      "type": "rom",
+      "filename": "Power Drive (Europe) (En,Fr,De,Es,Pt) [T-It by Rulesless v1.0].zip"
+    },
+    {
+      "id": "ia-md-pretty-soldier-sailor-moon-japan-t-en-by-supper-v1.0-n",
+      "name": "Pretty Soldier Sailor Moon (Japan) [T-En by Supper v1.0] [n]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Pretty%20Soldier%20Sailor%20Moon%20%28Japan%29%20%5BT-En%20by%20Supper%20v1.0%5D%20%5Bn%5D.zip",
+      "size": 1148859,
+      "type": "rom",
+      "filename": "Pretty Soldier Sailor Moon (Japan) [T-En by Supper v1.0] [n].zip"
+    },
+    {
+      "id": "ia-md-prince-of-persia-usa-remastered-edition-by-master-linkuei",
+      "name": "Prince of Persia (USA) [Remastered Edition by Master Linkuei v1.3]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Prince%20of%20Persia%20%28USA%29%20%5BRemastered%20Edition%20by%20Master%20Linkuei%20v1.3%5D.zip",
+      "size": 563338,
+      "type": "rom",
+      "filename": "Prince of Persia (USA) [Remastered Edition by Master Linkuei v1.3].zip"
+    },
+    {
+      "id": "ia-md-psy-o-blade-japan-t-en-by-eien-ni-hen-tryphon-v1.1",
+      "name": "Psy-O-Blade (Japan) [T-En by Eien Ni Hen & Tryphon v1.1]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Psy-O-Blade%20%28Japan%29%20%5BT-En%20by%20Eien%20Ni%20Hen%20%26%20Tryphon%20v1.1%5D.zip",
+      "size": 563302,
+      "type": "rom",
+      "filename": "Psy-O-Blade (Japan) [T-En by Eien Ni Hen & Tryphon v1.1].zip"
+    },
+    {
+      "id": "ia-md-pulseman-japan-t-en-by-m.i.j.e.t.-v070226",
+      "name": "Pulseman (Japan) [T-En by M.I.J.E.T. v070226]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Pulseman%20%28Japan%29%20%5BT-En%20by%20M.I.J.E.T.%20v070226%5D.zip",
+      "size": 1279744,
+      "type": "rom",
+      "filename": "Pulseman (Japan) [T-En by M.I.J.E.T. v070226].zip"
+    },
+    {
+      "id": "ia-md-punisher-the-usa",
+      "name": "Punisher, The (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Punisher%2C%20The%20%28USA%29.zip",
+      "size": 1035917,
+      "type": "rom",
+      "filename": "Punisher, The (USA).zip"
+    },
+    {
+      "id": "ia-md-puzzle-action-ichidanto-r-japan",
+      "name": "Puzzle & Action - Ichidanto-R (Japan)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Puzzle%20%26%20Action%20-%20Ichidanto-R%20%28Japan%29.zip",
+      "size": 1245345,
+      "type": "rom",
+      "filename": "Puzzle & Action - Ichidanto-R (Japan).zip"
+    },
+    {
+      "id": "ia-md-puzzle-action-tanto-r-japan",
+      "name": "Puzzle & Action - Tanto-R (Japan)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Puzzle%20%26%20Action%20-%20Tanto-R%20%28Japan%29.zip",
+      "size": 1110558,
+      "type": "rom",
+      "filename": "Puzzle & Action - Tanto-R (Japan).zip"
+    },
+    {
+      "id": "ia-md-quackshot-starring-donald-duck-world-rev-a",
+      "name": "QuackShot Starring Donald Duck (World) (Rev A)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/QuackShot%20Starring%20Donald%20Duck%20%28World%29%20%28Rev%20A%29.zip",
+      "size": 401734,
+      "type": "rom",
+      "filename": "QuackShot Starring Donald Duck (World) (Rev A).zip"
+    },
+    {
+      "id": "ia-md-raiden-trad-japan-usa-en-color-hack-by-fusaru-v1.01",
+      "name": "Raiden Trad (Japan, USA) (En) [Color hack by Fusaru v1.01]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Raiden%20Trad%20%28Japan%2C%20USA%29%20%28En%29%20%5BColor%20hack%20by%20Fusaru%20v1.01%5D.zip",
+      "size": 853774,
+      "type": "rom",
+      "filename": "Raiden Trad (Japan, USA) (En) [Color hack by Fusaru v1.01].zip"
+    },
+    {
+      "id": "ia-md-rainbow-islands-extra-japan",
+      "name": "Rainbow Islands Extra (Japan)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Rainbow%20Islands%20Extra%20%28Japan%29.zip",
+      "size": 222293,
+      "type": "rom",
+      "filename": "Rainbow Islands Extra (Japan).zip"
+    },
+    {
+      "id": "ia-md-ranger-x-usa",
+      "name": "Ranger X (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Ranger%20X%20%28USA%29.zip",
+      "size": 586210,
+      "type": "rom",
+      "filename": "Ranger X (USA).zip"
+    },
+    {
+      "id": "ia-md-record-of-the-bahamut-war-japan-t-en-by-supper-v1.0-n",
+      "name": "Record of the Bahamut War (Japan) [T-En by Supper v1.0] [n]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Record%20of%20the%20Bahamut%20War%20%28Japan%29%20%5BT-En%20by%20Supper%20v1.0%5D%20%5Bn%5D.zip",
+      "size": 507613,
+      "type": "rom",
+      "filename": "Record of the Bahamut War (Japan) [T-En by Supper v1.0] [n].zip"
+    },
+    {
+      "id": "ia-md-rent-a-hero-japan-t-en-nikcdc-v0.98-megadrive",
+      "name": "Rent a Hero (Japan) [T-En NikcDC v0.98] [MegaDrive]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Rent%20a%20Hero%20%28Japan%29%20%5BT-En%20NikcDC%20v0.98%5D%20%5BMegaDrive%5D.zip",
+      "size": 838765,
+      "type": "rom",
+      "filename": "Rent a Hero (Japan) [T-En NikcDC v0.98] [MegaDrive].zip"
+    },
+    {
+      "id": "ia-md-resq-europe-proto",
+      "name": "Resq (Europe) (Proto)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Resq%20%28Europe%29%20%28Proto%29.zip",
+      "size": 469916,
+      "type": "rom",
+      "filename": "Resq (Europe) (Proto).zip"
+    },
+    {
+      "id": "ia-md-revenge-of-shinobi-the-usa-europe-restoration-hack-by-scd",
+      "name": "Revenge of Shinobi, The (USA, Europe) [Restoration hack by SCD v.Final] [Better Jumping hack by BillyTime! Games v1.1]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Revenge%20of%20Shinobi%2C%20The%20%28USA%2C%20Europe%29%20%5BRestoration%20hack%20by%20SCD%20v.Final%5D%20%5BBetter%20Jumping%20hack%20by%20BillyTime%21%20Games%20v1.1%5D.zip",
+      "size": 363786,
+      "type": "rom",
+      "filename": "Revenge of Shinobi, The (USA, Europe) [Restoration hack by SCD v.Final] [Better Jumping hack by BillyTime! Games v1.1].zip"
+    },
+    {
+      "id": "ia-md-rick-dangerous-world-aftermarket-unl",
+      "name": "Rick Dangerous (World) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Rick%20Dangerous%20%28World%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 2271289,
+      "type": "rom",
+      "filename": "Rick Dangerous (World) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-rick-dangerous-2-world-v1.1-aftermarket-unl",
+      "name": "Rick Dangerous 2 (World) (v1.1) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Rick%20Dangerous%202%20%28World%29%20%28v1.1%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 460069,
+      "type": "rom",
+      "filename": "Rick Dangerous 2 (World) (v1.1) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-risky-woods-usa-europe",
+      "name": "Risky Woods (USA, Europe)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Risky%20Woods%20%28USA%2C%20Europe%29.zip",
+      "size": 455402,
+      "type": "rom",
+      "filename": "Risky Woods (USA, Europe).zip"
+    },
+    {
+      "id": "ia-md-ristar-usa-europe",
+      "name": "Ristar (USA, Europe)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Ristar%20%28USA%2C%20Europe%29.zip",
+      "size": 1411800,
+      "type": "rom",
+      "filename": "Ristar (USA, Europe).zip"
+    },
+    {
+      "id": "ia-md-robocop-3-usa-europe-color-hack-by-fusaru-v1.04",
+      "name": "RoboCop 3 (USA, Europe) [Color hack by Fusaru v1.04]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/RoboCop%203%20%28USA%2C%20Europe%29%20%5BColor%20hack%20by%20Fusaru%20v1.04%5D.zip",
+      "size": 319086,
+      "type": "rom",
+      "filename": "RoboCop 3 (USA, Europe) [Color hack by Fusaru v1.04].zip"
+    },
+    {
+      "id": "ia-md-rock-n-roll-racing-hack-usa-hack-by-ti-v16.0",
+      "name": "Rock n' Roll Racing Hack (USA) [Hack by Ti v16.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Rock%20n%27%20Roll%20Racing%20Hack%20%28USA%29%20%5BHack%20by%20Ti%20v16.0%5D.zip",
+      "size": 1007012,
+      "type": "rom",
+      "filename": "Rock n' Roll Racing Hack (USA) [Hack by Ti v16.0].zip"
+    },
+    {
+      "id": "ia-md-rocket-knight-adventures-usa",
+      "name": "Rocket Knight Adventures (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Rocket%20Knight%20Adventures%20%28USA%29.zip",
+      "size": 672130,
+      "type": "rom",
+      "filename": "Rocket Knight Adventures (USA).zip"
+    },
+    {
+      "id": "ia-md-samurai-shodown-usa-color-hack-by-pyron-v2.0",
+      "name": "Samurai Shodown (USA) [Color hack by Pyron v2.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Samurai%20Shodown%20%28USA%29%20%5BColor%20hack%20by%20Pyron%20v2.0%5D.zip",
+      "size": 1697453,
+      "type": "rom",
+      "filename": "Samurai Shodown (USA) [Color hack by Pyron v2.0].zip"
+    },
+    {
+      "id": "ia-md-saturday-night-slammasters-usa",
+      "name": "Saturday Night Slammasters (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Saturday%20Night%20Slammasters%20%28USA%29.zip",
+      "size": 2481269,
+      "type": "rom",
+      "filename": "Saturday Night Slammasters (USA).zip"
+    },
+    {
+      "id": "ia-md-second-samurai-world-aftermarket-unl",
+      "name": "Second Samurai (World) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Second%20Samurai%20%28World%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 661172,
+      "type": "rom",
+      "filename": "Second Samurai (World) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-sega-mega-cd-bios-collection-v2",
+      "name": "Sega Mega CD BIOS Collection v2",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Sega%20Mega%20CD%20BIOS%20Collection%20v2.7z",
+      "size": 325499,
+      "type": "rom",
+      "filename": "Sega Mega CD BIOS Collection v2.7z"
+    },
+    {
+      "id": "ia-md-sensible-soccer-europe-en-fr-de-it",
+      "name": "Sensible Soccer (Europe) (En,Fr,De,It)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Sensible%20Soccer%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%29.zip",
+      "size": 224795,
+      "type": "rom",
+      "filename": "Sensible Soccer (Europe) (En,Fr,De,It).zip"
+    },
+    {
+      "id": "ia-md-shadow-dancer-the-secret-of-shinobi-world",
+      "name": "Shadow Dancer - The Secret of Shinobi (World)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Shadow%20Dancer%20-%20The%20Secret%20of%20Shinobi%20%28World%29.zip",
+      "size": 347469,
+      "type": "rom",
+      "filename": "Shadow Dancer - The Secret of Shinobi (World).zip"
+    },
+    {
+      "id": "ia-md-shadow-of-the-beast-mashou-no-okite-japan-color-hack-by-py",
+      "name": "Shadow of the Beast - Mashou no Okite (Japan) [Color hack by Pyron v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Shadow%20of%20the%20Beast%20-%20Mashou%20no%20Okite%20%28Japan%29%20%5BColor%20hack%20by%20Pyron%20v1.0%5D.zip",
+      "size": 375443,
+      "type": "rom",
+      "filename": "Shadow of the Beast - Mashou no Okite (Japan) [Color hack by Pyron v1.0].zip"
+    },
+    {
+      "id": "ia-md-shadow-of-the-beast-ii-usa-europe-color-hack-by-linkuei-v1",
+      "name": "Shadow of the Beast II (USA, Europe) [Color hack by Linkuei v1.5]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Shadow%20of%20the%20Beast%20II%20%28USA%2C%20Europe%29%20%5BColor%20hack%20by%20Linkuei%20v1.5%5D.zip",
+      "size": 381391,
+      "type": "rom",
+      "filename": "Shadow of the Beast II (USA, Europe) [Color hack by Linkuei v1.5].zip"
+    },
+    {
+      "id": "ia-md-shining-force-ii-europe-t-it-by-raviolo-v1.1",
+      "name": "Shining Force II (Europe) [T-It by Raviolo v1.1]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Shining%20Force%20II%20%28Europe%29%20%5BT-It%20by%20Raviolo%20v1.1%5D.zip",
+      "size": 1523503,
+      "type": "rom",
+      "filename": "Shining Force II (Europe) [T-It by Raviolo v1.1].zip"
+    },
+    {
+      "id": "ia-md-shinobi-iii-return-of-the-ninja-master-usa",
+      "name": "Shinobi III - Return of the Ninja Master (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Shinobi%20III%20-%20Return%20of%20the%20Ninja%20Master%20%28USA%29.zip",
+      "size": 636707,
+      "type": "rom",
+      "filename": "Shinobi III - Return of the Ninja Master (USA).zip"
+    },
+    {
+      "id": "ia-md-simpsons-the-bart-vs.-the-space-mutants-usa-europe-rev-a",
+      "name": "Simpsons, The - Bart vs. the Space Mutants (USA, Europe) (Rev A)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Simpsons%2C%20The%20-%20Bart%20vs.%20the%20Space%20Mutants%20%28USA%2C%20Europe%29%20%28Rev%20A%29.zip",
+      "size": 196327,
+      "type": "rom",
+      "filename": "Simpsons, The - Bart vs. the Space Mutants (USA, Europe) (Rev A).zip"
+    },
+    {
+      "id": "ia-md-simpsons-the-bart-s-nightmare-usa-europe",
+      "name": "Simpsons, The - Bart's Nightmare (USA, Europe)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Simpsons%2C%20The%20-%20Bart%27s%20Nightmare%20%28USA%2C%20Europe%29.zip",
+      "size": 644157,
+      "type": "rom",
+      "filename": "Simpsons, The - Bart's Nightmare (USA, Europe).zip"
+    },
+    {
+      "id": "ia-md-snow-bros.-nick-tom-japan",
+      "name": "Snow Bros. - Nick & Tom (Japan)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28Japan%29.zip",
+      "size": 379469,
+      "type": "rom",
+      "filename": "Snow Bros. - Nick & Tom (Japan).zip"
+    },
+    {
+      "id": "ia-md-soleil-europe-t-it-by-trap-v0.5",
+      "name": "Soleil (Europe) [T-It by Trap v0.5]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Soleil%20%28Europe%29%20%5BT-It%20by%20Trap%20v0.5%5D.zip",
+      "size": 1142688,
+      "type": "rom",
+      "filename": "Soleil (Europe) [T-It by Trap v0.5].zip"
+    },
+    {
+      "id": "ia-md-sonic-knuckles-world",
+      "name": "Sonic & Knuckles (World)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Sonic%20%26%20Knuckles%20%28World%29.zip",
+      "size": 1425408,
+      "type": "rom",
+      "filename": "Sonic & Knuckles (World).zip"
+    },
+    {
+      "id": "ia-md-sonic-knuckles-sonic-the-hedgehog-japan-korea-en-lock-on-c",
+      "name": "Sonic & Knuckles + Sonic The Hedgehog (Japan, Korea) (En) (Lock-on Combination)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Sonic%20%26%20Knuckles%20%2B%20Sonic%20The%20Hedgehog%20%28Japan%2C%20Korea%29%20%28En%29%20%28Lock-on%20Combination%29.zip",
+      "size": 1670970,
+      "type": "rom",
+      "filename": "Sonic & Knuckles + Sonic The Hedgehog (Japan, Korea) (En) (Lock-on Combination).zip"
+    },
+    {
+      "id": "ia-md-sonic-knuckles-sonic-the-hedgehog-2-world-rev-a-lock-on-co",
+      "name": "Sonic & Knuckles + Sonic The Hedgehog 2 (World) (Rev A) (Lock-on Combination)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Sonic%20%26%20Knuckles%20%2B%20Sonic%20The%20Hedgehog%202%20%28World%29%20%28Rev%20A%29%20%28Lock-on%20Combination%29.zip",
+      "size": 2174875,
+      "type": "rom",
+      "filename": "Sonic & Knuckles + Sonic The Hedgehog 2 (World) (Rev A) (Lock-on Combination).zip"
+    },
+    {
+      "id": "ia-md-sonic-knuckles-sonic-the-hedgehog-3-japan-korea-en-lock-on",
+      "name": "Sonic & Knuckles + Sonic The Hedgehog 3 (Japan, Korea) (En) (Lock-on Combination) [Complete hack by Tiddles v130810]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Sonic%20%26%20Knuckles%20%2B%20Sonic%20The%20Hedgehog%203%20%28Japan%2C%20Korea%29%20%28En%29%20%28Lock-on%20Combination%29%20%5BComplete%20hack%20by%20Tiddles%20v130810%5D.zip",
+      "size": 2292499,
+      "type": "rom",
+      "filename": "Sonic & Knuckles + Sonic The Hedgehog 3 (Japan, Korea) (En) (Lock-on Combination) [Complete hack by Tiddles v130810].zip"
+    },
+    {
+      "id": "ia-md-sonic-3d-blast-director-s-cut-world-unl",
+      "name": "Sonic 3D Blast - Director's Cut (World) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Sonic%203D%20Blast%20-%20Director%27s%20Cut%20%28World%29%20%28Unl%29.zip",
+      "size": 2602854,
+      "type": "rom",
+      "filename": "Sonic 3D Blast - Director's Cut (World) (Unl).zip"
+    },
+    {
+      "id": "ia-md-sonic-compilation-usa-europe-korea-en-rev-a",
+      "name": "Sonic Compilation (USA, Europe, Korea) (En) (Rev A)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Sonic%20Compilation%20%28USA%2C%20Europe%2C%20Korea%29%20%28En%29%20%28Rev%20A%29.zip",
+      "size": 1723111,
+      "type": "rom",
+      "filename": "Sonic Compilation (USA, Europe, Korea) (En) (Rev A).zip"
+    },
+    {
+      "id": "ia-md-sonic-delta-hack-by-neto-v0.79",
+      "name": "Sonic Delta [Hack by Neto v0.79]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Sonic%20Delta%20%5BHack%20by%20Neto%20v0.79%5D.zip",
+      "size": 3196689,
+      "type": "rom",
+      "filename": "Sonic Delta [Hack by Neto v0.79].zip"
+    },
+    {
+      "id": "ia-md-sonic-eraser-japan-seganet-t-en-by-derrick-sobodash-v1.0",
+      "name": "Sonic Eraser (Japan) (SegaNet) [T-En by Derrick Sobodash v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Sonic%20Eraser%20%28Japan%29%20%28SegaNet%29%20%5BT-En%20by%20Derrick%20Sobodash%20v1.0%5D.zip",
+      "size": 110645,
+      "type": "rom",
+      "filename": "Sonic Eraser (Japan) (SegaNet) [T-En by Derrick Sobodash v1.0].zip"
+    },
+    {
+      "id": "ia-md-sonic-spinball-usa",
+      "name": "Sonic Spinball (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Sonic%20Spinball%20%28USA%29.zip",
+      "size": 526878,
+      "type": "rom",
+      "filename": "Sonic Spinball (USA).zip"
+    },
+    {
+      "id": "ia-md-sonic-the-hedgehog-japan-europe-korea-en",
+      "name": "Sonic The Hedgehog (Japan, Europe, Korea) (En)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Sonic%20The%20Hedgehog%20%28Japan%2C%20Europe%2C%20Korea%29%20%28En%29.zip",
+      "size": 385512,
+      "type": "rom",
+      "filename": "Sonic The Hedgehog (Japan, Europe, Korea) (En).zip"
+    },
+    {
+      "id": "ia-md-sonic-the-hedgehog-2-world-rev-a-improvements8.2",
+      "name": "Sonic The Hedgehog 2 (World) (Rev A) [Improvements8.2]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Sonic%20The%20Hedgehog%202%20%28World%29%20%28Rev%20A%29%20%5BImprovements8.2%5D.zip",
+      "size": 744330,
+      "type": "rom",
+      "filename": "Sonic The Hedgehog 2 (World) (Rev A) [Improvements8.2].zip"
+    },
+    {
+      "id": "ia-md-sonic-the-hedgehog-3-usa",
+      "name": "Sonic The Hedgehog 3 (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Sonic%20The%20Hedgehog%203%20%28USA%29.zip",
+      "size": 1254617,
+      "type": "rom",
+      "filename": "Sonic The Hedgehog 3 (USA).zip"
+    },
+    {
+      "id": "ia-md-sorcerian-japan-t-en-by-sstranslations-v0.5-i",
+      "name": "Sorcerian (Japan) [T-En by SSTranslations v0.5] [i]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Sorcerian%20%28Japan%29%20%5BT-En%20by%20SSTranslations%20v0.5%5D%20%5Bi%5D.zip",
+      "size": 426916,
+      "type": "rom",
+      "filename": "Sorcerian (Japan) [T-En by SSTranslations v0.5] [i].zip"
+    },
+    {
+      "id": "ia-md-sorcery-saga-i-japan-t-en-by-supper-v1.1-n",
+      "name": "Sorcery Saga I (Japan) [T-En by Supper v1.1] [n]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Sorcery%20Saga%20I%20%28Japan%29%20%5BT-En%20by%20Supper%20v1.1%5D%20%5Bn%5D.zip",
+      "size": 1216329,
+      "type": "rom",
+      "filename": "Sorcery Saga I (Japan) [T-En by Supper v1.1] [n].zip"
+    },
+    {
+      "id": "ia-md-sparkster-usa",
+      "name": "Sparkster (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Sparkster%20%28USA%29.zip",
+      "size": 630725,
+      "type": "rom",
+      "filename": "Sparkster (USA).zip"
+    },
+    {
+      "id": "ia-md-spatter-world-mega-drive-mini-2-patched",
+      "name": "Spatter (World) (Mega Drive Mini 2) [Patched]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Spatter%20%28World%29%20%28Mega%20Drive%20Mini%202%29%20%5BPatched%5D.zip",
+      "size": 146712,
+      "type": "rom",
+      "filename": "Spatter (World) (Mega Drive Mini 2) [Patched].zip"
+    },
+    {
+      "id": "ia-md-speedball-2-brutal-deluxe-usa",
+      "name": "Speedball 2 - Brutal Deluxe (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Speedball%202%20-%20Brutal%20Deluxe%20%28USA%29.zip",
+      "size": 257106,
+      "type": "rom",
+      "filename": "Speedball 2 - Brutal Deluxe (USA).zip"
+    },
+    {
+      "id": "ia-md-splatterhouse-2-usa-color-hack-by-fusaru-v1.00-classic-ric",
+      "name": "Splatterhouse 2 (USA) [Color hack by Fusaru v1.00] [Classic Rick]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Splatterhouse%202%20%28USA%29%20%5BColor%20hack%20by%20Fusaru%20v1.00%5D%20%5BClassic%20Rick%5D.zip",
+      "size": 445447,
+      "type": "rom",
+      "filename": "Splatterhouse 2 (USA) [Color hack by Fusaru v1.00] [Classic Rick].zip"
+    },
+    {
+      "id": "ia-md-splatterhouse-3-usa-t-it-by-it.unknown-v1.0",
+      "name": "Splatterhouse 3 (USA) [T-It by It.Unknown v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Splatterhouse%203%20%28USA%29%20%5BT-It%20by%20It.Unknown%20v1.0%5D.zip",
+      "size": 1064460,
+      "type": "rom",
+      "filename": "Splatterhouse 3 (USA) [T-It by It.Unknown v1.0].zip"
+    },
+    {
+      "id": "ia-md-star-cruiser-japan-t-en-by-nebulous-translations-v0.99.1",
+      "name": "Star Cruiser (Japan) [T-En by Nebulous Translations v0.99.1]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Star%20Cruiser%20%28Japan%29%20%5BT-En%20by%20Nebulous%20Translations%20v0.99.1%5D.zip",
+      "size": 400746,
+      "type": "rom",
+      "filename": "Star Cruiser (Japan) [T-En by Nebulous Translations v0.99.1].zip"
+    },
+    {
+      "id": "ia-md-star-mobile-usa-mega-drive-mini-2-patched",
+      "name": "Star Mobile (USA) (Mega Drive Mini 2) [Patched]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Star%20Mobile%20%28USA%29%20%28Mega%20Drive%20Mini%202%29%20%5BPatched%5D.zip",
+      "size": 104036,
+      "type": "rom",
+      "filename": "Star Mobile (USA) (Mega Drive Mini 2) [Patched].zip"
+    },
+    {
+      "id": "ia-md-street-fighter-ii-special-champion-edition-usa-remastered",
+      "name": "Street Fighter II' - Special Champion Edition (USA) [Remastered hack by Pyron v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Street%20Fighter%20II%27%20-%20Special%20Champion%20Edition%20%28USA%29%20%5BRemastered%20hack%20by%20Pyron%20v1.0%5D.zip",
+      "size": 1574167,
+      "type": "rom",
+      "filename": "Street Fighter II' - Special Champion Edition (USA) [Remastered hack by Pyron v1.0].zip"
+    },
+    {
+      "id": "ia-md-streets-of-rage-world-rev-a",
+      "name": "Streets of Rage (World) (Rev A)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Streets%20of%20Rage%20%28World%29%20%28Rev%20A%29.zip",
+      "size": 370658,
+      "type": "rom",
+      "filename": "Streets of Rage (World) (Rev A).zip"
+    },
+    {
+      "id": "ia-md-streets-of-rage-2-usa-t-it-by-it.unknown-v1.01-restoration",
+      "name": "Streets of Rage 2 (USA) [T-It by It.Unknown v1.01] [Restoration hack by SCD vFinal]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Streets%20of%20Rage%202%20%28USA%29%20%5BT-It%20by%20It.Unknown%20v1.01%5D%20%5BRestoration%20hack%20by%20SCD%20vFinal%5D.zip",
+      "size": 1006092,
+      "type": "rom",
+      "filename": "Streets of Rage 2 (USA) [T-It by It.Unknown v1.01] [Restoration hack by SCD vFinal].zip"
+    },
+    {
+      "id": "ia-md-streets-of-rage-2-usa-t-it-by-rulesless-v1.0-uncensored",
+      "name": "Streets of Rage 2 (USA) [T-It by Rulesless v1.0] [Uncensored]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Streets%20of%20Rage%202%20%28USA%29%20%5BT-It%20by%20Rulesless%20v1.0%5D%20%5BUncensored%5D.zip",
+      "size": 1010840,
+      "type": "rom",
+      "filename": "Streets of Rage 2 (USA) [T-It by Rulesless v1.0] [Uncensored].zip"
+    },
+    {
+      "id": "ia-md-streets-of-rage-2-usa-teenage-mutant-ninja-turtles-shredde",
+      "name": "Streets of Rage 2 (USA) [Teenage Mutant Ninja Turtles - Shredder's Re-Revenge by savok v1.01]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Streets%20of%20Rage%202%20%28USA%29%20%5BTeenage%20Mutant%20Ninja%20Turtles%20-%20Shredder%27s%20Re-Revenge%20by%20savok%20v1.01%5D.zip",
+      "size": 1592583,
+      "type": "rom",
+      "filename": "Streets of Rage 2 (USA) [Teenage Mutant Ninja Turtles - Shredder's Re-Revenge by savok v1.01].zip"
+    },
+    {
+      "id": "ia-md-streets-of-rage-3-japan-en-by-twilight-v1.0",
+      "name": "Streets of Rage 3 (Japan) [En by Twilight v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Streets%20of%20Rage%203%20%28Japan%29%20%5BEn%20by%20Twilight%20v1.0%5D.zip",
+      "size": 1771414,
+      "type": "rom",
+      "filename": "Streets of Rage 3 (Japan) [En by Twilight v1.0].zip"
+    },
+    {
+      "id": "ia-md-super-bubble-bobble-taiwan-en-unl",
+      "name": "Super Bubble Bobble (Taiwan) (En) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Super%20Bubble%20Bobble%20%28Taiwan%29%20%28En%29%20%28Unl%29.zip",
+      "size": 321748,
+      "type": "rom",
+      "filename": "Super Bubble Bobble (Taiwan) (En) (Unl).zip"
+    },
+    {
+      "id": "ia-md-super-fantasy-zone-usa-ja-genesis-mini-t-en-by-saulfabreg",
+      "name": "Super Fantasy Zone (USA) (Ja) (Genesis Mini) [T-En by Saulfabreg v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Super%20Fantasy%20Zone%20%28USA%29%20%28Ja%29%20%28Genesis%20Mini%29%20%5BT-En%20by%20Saulfabreg%20v1.0%5D.zip",
+      "size": 439997,
+      "type": "rom",
+      "filename": "Super Fantasy Zone (USA) (Ja) (Genesis Mini) [T-En by Saulfabreg v1.0].zip"
+    },
+    {
+      "id": "ia-md-super-hang-on-japan-usa-en-ja-color-hack-by-pyron-v1.0",
+      "name": "Super Hang-On (Japan, USA) (En,Ja) [Color hack by Pyron v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Super%20Hang-On%20%28Japan%2C%20USA%29%20%28En%2CJa%29%20%5BColor%20hack%20by%20Pyron%20v1.0%5D.zip",
+      "size": 252587,
+      "type": "rom",
+      "filename": "Super Hang-On (Japan, USA) (En,Ja) [Color hack by Pyron v1.0].zip"
+    },
+    {
+      "id": "ia-md-super-locomotive-world-mega-drive-mini-2-patched",
+      "name": "Super Locomotive (World) (Mega Drive Mini 2) [Patched]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Super%20Locomotive%20%28World%29%20%28Mega%20Drive%20Mini%202%29%20%5BPatched%5D.zip",
+      "size": 82078,
+      "type": "rom",
+      "filename": "Super Locomotive (World) (Mega Drive Mini 2) [Patched].zip"
+    },
+    {
+      "id": "ia-md-super-monaco-gp-usa-en-ja-color-hack-by-peixemacaco-v1.0",
+      "name": "Super Monaco GP (USA) (En,Ja) [Color hack by Peixemacaco v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Super%20Monaco%20GP%20%28USA%29%20%28En%2CJa%29%20%5BColor%20hack%20by%20Peixemacaco%20v1.0%5D.zip",
+      "size": 392255,
+      "type": "rom",
+      "filename": "Super Monaco GP (USA) (En,Ja) [Color hack by Peixemacaco v1.0].zip"
+    },
+    {
+      "id": "ia-md-super-street-fighter-ii-usa-color-patch-by-hiryu-dol-v1.1",
+      "name": "Super Street Fighter II (USA) [Color patch by Hiryu-Dol v1.1]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Super%20Street%20Fighter%20II%20%28USA%29%20%5BColor%20patch%20by%20Hiryu-Dol%20v1.1%5D.zip",
+      "size": 2789905,
+      "type": "rom",
+      "filename": "Super Street Fighter II (USA) [Color patch by Hiryu-Dol v1.1].zip"
+    },
+    {
+      "id": "ia-md-superman-usa-ultimate-hack-by-billytime-games-v2.0",
+      "name": "Superman (USA) [Ultimate hack by BillyTime Games v2.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Superman%20%28USA%29%20%5BUltimate%20hack%20by%20BillyTime%20Games%20v2.0%5D.zip",
+      "size": 392069,
+      "type": "rom",
+      "filename": "Superman (USA) [Ultimate hack by BillyTime Games v2.0].zip"
+    },
+    {
+      "id": "ia-md-surging-aura-japan-t-fr-by-terminus-traduction-rc1",
+      "name": "Surging Aura (Japan)  [T-Fr by Terminus Traduction RC1]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Surging%20Aura%20%28Japan%29%20%20%5BT-Fr%20by%20Terminus%20Traduction%20RC1%5D.zip",
+      "size": 1263568,
+      "type": "rom",
+      "filename": "Surging Aura (Japan)  [T-Fr by Terminus Traduction RC1].zip"
+    },
+    {
+      "id": "ia-md-sword-of-vermilion-usa-europe",
+      "name": "Sword of Vermilion (USA, Europe)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Sword%20of%20Vermilion%20%28USA%2C%20Europe%29.zip",
+      "size": 382004,
+      "type": "rom",
+      "filename": "Sword of Vermilion (USA, Europe).zip"
+    },
+    {
+      "id": "ia-md-t2-the-arcade-game-usa-europe-color-hack-by-fusaru-v1.01",
+      "name": "T2 - The Arcade Game (USA, Europe) [Color hack by Fusaru v1.01]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/T2%20-%20The%20Arcade%20Game%20%28USA%2C%20Europe%29%20%5BColor%20hack%20by%20Fusaru%20v1.01%5D.zip",
+      "size": 469445,
+      "type": "rom",
+      "filename": "T2 - The Arcade Game (USA, Europe) [Color hack by Fusaru v1.01].zip"
+    },
+    {
+      "id": "ia-md-tanglewood-world-aftermarket-unl",
+      "name": "Tanglewood (World) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Tanglewood%20%28World%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 1207031,
+      "type": "rom",
+      "filename": "Tanglewood (World) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-tanzer-world-aftermarket-unl",
+      "name": "Tanzer (World) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Tanzer%20%28World%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 927430,
+      "type": "rom",
+      "filename": "Tanzer (World) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-target-earth-usa-reloaded-hack-by-vikfield-v1.0",
+      "name": "Target Earth (USA) [Reloaded hack by Vikfield v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Target%20Earth%20%28USA%29%20%5BReloaded%20hack%20by%20Vikfield%20v1.0%5D.zip",
+      "size": 265437,
+      "type": "rom",
+      "filename": "Target Earth (USA) [Reloaded hack by Vikfield v1.0].zip"
+    },
+    {
+      "id": "ia-md-task-force-harrier-ex-usa-color-hack-by-fusaru-v1.01",
+      "name": "Task Force Harrier EX (USA) [Color hack by Fusaru v1.01]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Task%20Force%20Harrier%20EX%20%28USA%29%20%5BColor%20hack%20by%20Fusaru%20v1.01%5D.zip",
+      "size": 583887,
+      "type": "rom",
+      "filename": "Task Force Harrier EX (USA) [Color hack by Fusaru v1.01].zip"
+    },
+    {
+      "id": "ia-md-taz-mania-world",
+      "name": "Taz-Mania (World)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Taz-Mania%20%28World%29.zip",
+      "size": 340631,
+      "type": "rom",
+      "filename": "Taz-Mania (World).zip"
+    },
+    {
+      "id": "ia-md-tecmo-cup-football-game-japan-proto-t-it-by-rulez-translat",
+      "name": "Tecmo Cup Football Game (Japan) (Proto) [T-It by Rulez Translation v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Tecmo%20Cup%20Football%20Game%20%28Japan%29%20%28Proto%29%20%5BT-It%20by%20Rulez%20Translation%20v1.0%5D.zip",
+      "size": 336683,
+      "type": "rom",
+      "filename": "Tecmo Cup Football Game (Japan) (Proto) [T-It by Rulez Translation v1.0].zip"
+    },
+    {
+      "id": "ia-md-teenage-mutant-ninja-turtles-return-of-the-shredder-japan",
+      "name": "Teenage Mutant Ninja Turtles - Return of the Shredder (Japan)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Teenage%20Mutant%20Ninja%20Turtles%20-%20Return%20of%20the%20Shredder%20%28Japan%29.zip",
+      "size": 667549,
+      "type": "rom",
+      "filename": "Teenage Mutant Ninja Turtles - Return of the Shredder (Japan).zip"
+    },
+    {
+      "id": "ia-md-teenage-mutant-ninja-turtles-the-hyperstone-heist-usa-colo",
+      "name": "Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA) [Color hack by Pyron v2.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Teenage%20Mutant%20Ninja%20Turtles%20-%20The%20Hyperstone%20Heist%20%28USA%29%20%5BColor%20hack%20by%20Pyron%20v2.0%5D.zip",
+      "size": 649117,
+      "type": "rom",
+      "filename": "Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA) [Color hack by Pyron v2.0].zip"
+    },
+    {
+      "id": "ia-md-teenage-mutant-ninja-turtles-the-legend-returns-russia-unl",
+      "name": "Teenage Mutant Ninja Turtles - The Legend Returns (Russia) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Teenage%20Mutant%20Ninja%20Turtles%20-%20The%20Legend%20Returns%20%28Russia%29%20%28Unl%29.zip",
+      "size": 308670,
+      "type": "rom",
+      "filename": "Teenage Mutant Ninja Turtles - The Legend Returns (Russia) (Unl).zip"
+    },
+    {
+      "id": "ia-md-teenage-mutant-ninja-turtles-tournament-fighters-usa-color",
+      "name": "Teenage Mutant Ninja Turtles - Tournament Fighters (USA) [Color hack by Fusaru v1.00]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Teenage%20Mutant%20Ninja%20Turtles%20-%20Tournament%20Fighters%20%28USA%29%20%5BColor%20hack%20by%20Fusaru%20v1.00%5D.zip",
+      "size": 1096545,
+      "type": "rom",
+      "filename": "Teenage Mutant Ninja Turtles - Tournament Fighters (USA) [Color hack by Fusaru v1.00].zip"
+    },
+    {
+      "id": "ia-md-tetris-usa-genesis-mini",
+      "name": "Tetris (USA) (Genesis Mini)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Tetris%20%28USA%29%20%28Genesis%20Mini%29.zip",
+      "size": 127034,
+      "type": "rom",
+      "filename": "Tetris (USA) (Genesis Mini).zip"
+    },
+    {
+      "id": "ia-md-thunder-force-ii-usa-europe",
+      "name": "Thunder Force II (USA, Europe)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Thunder%20Force%20II%20%28USA%2C%20Europe%29.zip",
+      "size": 381167,
+      "type": "rom",
+      "filename": "Thunder Force II (USA, Europe).zip"
+    },
+    {
+      "id": "ia-md-thunder-force-iii-japan-usa",
+      "name": "Thunder Force III (Japan, USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Thunder%20Force%20III%20%28Japan%2C%20USA%29.zip",
+      "size": 345890,
+      "type": "rom",
+      "filename": "Thunder Force III (Japan, USA).zip"
+    },
+    {
+      "id": "ia-md-thunder-force-iv-japan",
+      "name": "Thunder Force IV (Japan)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Thunder%20Force%20IV%20%28Japan%29.zip",
+      "size": 729161,
+      "type": "rom",
+      "filename": "Thunder Force IV (Japan).zip"
+    },
+    {
+      "id": "ia-md-thunder-pro-wrestling-story-japan-t-en-by-mrrichard999-fir",
+      "name": "Thunder Pro Wrestling Story (Japan) [T-En by MrRichard999 & Fire_Pro_Fan & TheMajinZenki & FlashPV v0.99] [n]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Thunder%20Pro%20Wrestling%20Story%20%28Japan%29%20%5BT-En%20by%20MrRichard999%20%26%20Fire_Pro_Fan%20%26%20TheMajinZenki%20%26%20FlashPV%20v0.99%5D%20%5Bn%5D.zip",
+      "size": 176127,
+      "type": "rom",
+      "filename": "Thunder Pro Wrestling Story (Japan) [T-En by MrRichard999 & Fire_Pro_Fan & TheMajinZenki & FlashPV v0.99] [n].zip"
+    },
+    {
+      "id": "ia-md-tintin-in-tibet-europe-fr-en-de-es-nl-sv-t-it-by-shiine-ch",
+      "name": "Tintin in Tibet (Europe) (Fr,En,De,Es,Nl,Sv) [T-It by Shiine-chan v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Tintin%20in%20Tibet%20%28Europe%29%20%28Fr%2CEn%2CDe%2CEs%2CNl%2CSv%29%20%5BT-It%20by%20Shiine-chan%20v1.0%5D.zip",
+      "size": 849308,
+      "type": "rom",
+      "filename": "Tintin in Tibet (Europe) (Fr,En,De,Es,Nl,Sv) [T-It by Shiine-chan v1.0].zip"
+    },
+    {
+      "id": "ia-md-toejam-earl-world-rev-a",
+      "name": "ToeJam & Earl (World) (Rev A)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/ToeJam%20%26%20Earl%20%28World%29%20%28Rev%20A%29.zip",
+      "size": 618273,
+      "type": "rom",
+      "filename": "ToeJam & Earl (World) (Rev A).zip"
+    },
+    {
+      "id": "ia-md-toejam-earl-in-panic-on-funkotron-usa",
+      "name": "ToeJam & Earl in Panic on Funkotron (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/ToeJam%20%26%20Earl%20in%20Panic%20on%20Funkotron%20%28USA%29.zip",
+      "size": 1346655,
+      "type": "rom",
+      "filename": "ToeJam & Earl in Panic on Funkotron (USA).zip"
+    },
+    {
+      "id": "ia-md-toki-going-ape-spit-usa-europe-color-hack-by-fusaru-v1.00",
+      "name": "Toki - Going Ape Spit (USA, Europe) [Color hack by Fusaru v1.00]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Toki%20-%20Going%20Ape%20Spit%20%28USA%2C%20Europe%29%20%5BColor%20hack%20by%20Fusaru%20v1.00%5D.zip",
+      "size": 276642,
+      "type": "rom",
+      "filename": "Toki - Going Ape Spit (USA, Europe) [Color hack by Fusaru v1.00].zip"
+    },
+    {
+      "id": "ia-md-tom-and-jerry-frantic-antics-usa-improvement-hack-by-ti-v2",
+      "name": "Tom and Jerry - Frantic Antics (USA) [Improvement hack by Ti v2]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Tom%20and%20Jerry%20-%20Frantic%20Antics%20%28USA%29%20%5BImprovement%20hack%20by%20Ti%20v2%5D.zip",
+      "size": 543875,
+      "type": "rom",
+      "filename": "Tom and Jerry - Frantic Antics (USA) [Improvement hack by Ti v2].zip"
+    },
+    {
+      "id": "ia-md-tougiou-king-colossus-japan-t-en-by-m.i.j.e.t.-v061030",
+      "name": "Tougiou King Colossus (Japan) [T-En by M.I.J.E.T. v061030]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Tougiou%20King%20Colossus%20%28Japan%29%20%5BT-En%20by%20M.I.J.E.T.%20v061030%5D.zip",
+      "size": 640166,
+      "type": "rom",
+      "filename": "Tougiou King Colossus (Japan) [T-En by M.I.J.E.T. v061030].zip"
+    },
+    {
+      "id": "ia-md-trouble-shooter-vintage-japan-korea-t-en-by-m.i.j.e.t.-v06",
+      "name": "Trouble Shooter Vintage (Japan, Korea) [T-En by M.I.J.E.T. v061029] [n]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Trouble%20Shooter%20Vintage%20%28Japan%2C%20Korea%29%20%5BT-En%20by%20M.I.J.E.T.%20v061029%5D%20%5Bn%5D.zip",
+      "size": 722356,
+      "type": "rom",
+      "filename": "Trouble Shooter Vintage (Japan, Korea) [T-En by M.I.J.E.T. v061029] [n].zip"
+    },
+    {
+      "id": "ia-md-truxton-world-mega-drive-mini-2-patched",
+      "name": "Truxton (World) (Mega Drive Mini 2) [Patched]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Truxton%20%28World%29%20%28Mega%20Drive%20Mini%202%29%20%5BPatched%5D.zip",
+      "size": 223115,
+      "type": "rom",
+      "filename": "Truxton (World) (Mega Drive Mini 2) [Patched].zip"
+    },
+    {
+      "id": "ia-md-turrican-usa-europe-unl-color-hack-by-linkuei-v1.5-sound-f",
+      "name": "Turrican (USA, Europe) (Unl) [Color hack by Linkuei v1.5] [Sound fix by Desko v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Turrican%20%28USA%2C%20Europe%29%20%28Unl%29%20%5BColor%20hack%20by%20Linkuei%20v1.5%5D%20%5BSound%20fix%20by%20Desko%20v1.0%5D.zip",
+      "size": 293263,
+      "type": "rom",
+      "filename": "Turrican (USA, Europe) (Unl) [Color hack by Linkuei v1.5] [Sound fix by Desko v1.0].zip"
+    },
+    {
+      "id": "ia-md-twin-cobra-desert-attack-helicopter-usa-color-hack-by-fusa",
+      "name": "Twin Cobra - Desert Attack Helicopter (USA) [Color hack by Fusaru v2.00]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Twin%20Cobra%20-%20Desert%20Attack%20Helicopter%20%28USA%29%20%5BColor%20hack%20by%20Fusaru%20v2.00%5D.zip",
+      "size": 391223,
+      "type": "rom",
+      "filename": "Twin Cobra - Desert Attack Helicopter (USA) [Color hack by Fusaru v2.00].zip"
+    },
+    {
+      "id": "ia-md-twin-hawk-japan-europe-en-color-hack-by-fusaru-v1.00",
+      "name": "Twin Hawk (Japan, Europe) (En) [Color hack by Fusaru v1.00]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Twin%20Hawk%20%28Japan%2C%20Europe%29%20%28En%29%20%5BColor%20hack%20by%20Fusaru%20v1.00%5D.zip",
+      "size": 203724,
+      "type": "rom",
+      "filename": "Twin Hawk (Japan, Europe) (En) [Color hack by Fusaru v1.00].zip"
+    },
+    {
+      "id": "ia-md-twinkle-tale-japan-t-en-by-m.i.j.e.t.-v070328-color-hack-b",
+      "name": "Twinkle Tale (Japan) [T-En by M.I.J.E.T. v070328] [Color hack by Pyron v1.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Twinkle%20Tale%20%28Japan%29%20%5BT-En%20by%20M.I.J.E.T.%20v070328%5D%20%5BColor%20hack%20by%20Pyron%20v1.0%5D.zip",
+      "size": 534594,
+      "type": "rom",
+      "filename": "Twinkle Tale (Japan) [T-En by M.I.J.E.T. v070328] [Color hack by Pyron v1.0].zip"
+    },
+    {
+      "id": "ia-md-two-crude-dudes-usa",
+      "name": "Two Crude Dudes (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Two%20Crude%20Dudes%20%28USA%29.zip",
+      "size": 545215,
+      "type": "rom",
+      "filename": "Two Crude Dudes (USA).zip"
+    },
+    {
+      "id": "ia-md-uchuu-senkan-gomora-japan-color-hack-by-fusaru-v1.01",
+      "name": "Uchuu Senkan Gomora (Japan) [Color hack by Fusaru v1.01]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Uchuu%20Senkan%20Gomora%20%28Japan%29%20%5BColor%20hack%20by%20Fusaru%20v1.01%5D.zip",
+      "size": 412269,
+      "type": "rom",
+      "filename": "Uchuu Senkan Gomora (Japan) [Color hack by Fusaru v1.01].zip"
+    },
+    {
+      "id": "ia-md-ultimate-mortal-kombat-3-usa",
+      "name": "Ultimate Mortal Kombat 3 (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Ultimate%20Mortal%20Kombat%203%20%28USA%29.zip",
+      "size": 3325557,
+      "type": "rom",
+      "filename": "Ultimate Mortal Kombat 3 (USA).zip"
+    },
+    {
+      "id": "ia-md-ultracore-usa-aftermarket-unl",
+      "name": "Ultracore (USA) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Ultracore%20%28USA%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 701653,
+      "type": "rom",
+      "filename": "Ultracore (USA) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-undead-line-japan-t-en-by-m.i.j.e.t.-v070903",
+      "name": "Undead Line (Japan) [T-En by M.I.J.E.T. v070903]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Undead%20Line%20%28Japan%29%20%5BT-En%20by%20M.I.J.E.T.%20v070903%5D.zip",
+      "size": 440584,
+      "type": "rom",
+      "filename": "Undead Line (Japan) [T-En by M.I.J.E.T. v070903].zip"
+    },
+    {
+      "id": "ia-md-universal-soldier-usa-europe-unl",
+      "name": "Universal Soldier (USA, Europe) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Universal%20Soldier%20%28USA%2C%20Europe%29%20%28Unl%29.zip",
+      "size": 447021,
+      "type": "rom",
+      "filename": "Universal Soldier (USA, Europe) (Unl).zip"
+    },
+    {
+      "id": "ia-md-vapor-trail-usa-color-hack-by-pyron-v2.0",
+      "name": "Vapor Trail (USA) [Color hack by Pyron v2.0]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Vapor%20Trail%20%28USA%29%20%5BColor%20hack%20by%20Pyron%20v2.0%5D.zip",
+      "size": 433066,
+      "type": "rom",
+      "filename": "Vapor Trail (USA) [Color hack by Pyron v2.0].zip"
+    },
+    {
+      "id": "ia-md-vectorman-usa-europe",
+      "name": "Vectorman (USA, Europe)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Vectorman%20%28USA%2C%20Europe%29.zip",
+      "size": 1049869,
+      "type": "rom",
+      "filename": "Vectorman (USA, Europe).zip"
+    },
+    {
+      "id": "ia-md-vectorman-2-usa",
+      "name": "Vectorman 2 (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Vectorman%202%20%28USA%29.zip",
+      "size": 1374240,
+      "type": "rom",
+      "filename": "Vectorman 2 (USA).zip"
+    },
+    {
+      "id": "ia-md-virtua-fighter-2-usa-europe",
+      "name": "Virtua Fighter 2 (USA, Europe)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Virtua%20Fighter%202%20%28USA%2C%20Europe%29.zip",
+      "size": 2002267,
+      "type": "rom",
+      "filename": "Virtua Fighter 2 (USA, Europe).zip"
+    },
+    {
+      "id": "ia-md-vixen-357-japan-t-en-by-nebulous-translations-v1.2",
+      "name": "Vixen 357 (Japan) [T-En by Nebulous Translations v1.2]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Vixen%20357%20%28Japan%29%20%5BT-En%20by%20Nebulous%20Translations%20v1.2%5D.zip",
+      "size": 703432,
+      "type": "rom",
+      "filename": "Vixen 357 (Japan) [T-En by Nebulous Translations v1.2].zip"
+    },
+    {
+      "id": "ia-md-wwf-royal-rumble-world-color-and-sfx-hack-by-byros-v-1.05",
+      "name": "WWF Royal Rumble (World) [Color and SFX hack by Byros v 1.05]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/WWF%20Royal%20Rumble%20%28World%29%20%5BColor%20and%20SFX%20hack%20by%20Byros%20v%201.05%5D.zip",
+      "size": 1387780,
+      "type": "rom",
+      "filename": "WWF Royal Rumble (World) [Color and SFX hack by Byros v 1.05].zip"
+    },
+    {
+      "id": "ia-md-wardner-usa-color-hack-by-fusaru-v1.00",
+      "name": "Wardner (USA) [Color hack by Fusaru v1.00]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Wardner%20%28USA%29%20%5BColor%20hack%20by%20Fusaru%20v1.00%5D.zip",
+      "size": 221896,
+      "type": "rom",
+      "filename": "Wardner (USA) [Color hack by Fusaru v1.00].zip"
+    },
+    {
+      "id": "ia-md-warsong-usa-t-en-by-d-v20010219-japanese-names",
+      "name": "Warsong (USA) [T-En by D v20010219] [Japanese names]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Warsong%20%28USA%29%20%5BT-En%20by%20D%20v20010219%5D%20%5BJapanese%20names%5D.zip",
+      "size": 289888,
+      "type": "rom",
+      "filename": "Warsong (USA) [T-En by D v20010219] [Japanese names].zip"
+    },
+    {
+      "id": "ia-md-water-margin-a-tale-of-clouds-and-wind-usa-aftermarket-unl",
+      "name": "Water Margin - A Tale of Clouds and Wind (USA) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Water%20Margin%20-%20A%20Tale%20of%20Clouds%20and%20Wind%20%28USA%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 918095,
+      "type": "rom",
+      "filename": "Water Margin - A Tale of Clouds and Wind (USA) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-williams-arcade-s-greatest-hits-usa",
+      "name": "Williams Arcade's Greatest Hits (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Williams%20Arcade%27s%20Greatest%20Hits%20%28USA%29.zip",
+      "size": 272483,
+      "type": "rom",
+      "filename": "Williams Arcade's Greatest Hits (USA).zip"
+    },
+    {
+      "id": "ia-md-wiz-n-liz-usa",
+      "name": "Wiz'n'Liz (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Wiz%27n%27Liz%20%28USA%29.zip",
+      "size": 687939,
+      "type": "rom",
+      "filename": "Wiz'n'Liz (USA).zip"
+    },
+    {
+      "id": "ia-md-wolfchild-usa",
+      "name": "Wolfchild (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Wolfchild%20%28USA%29.zip",
+      "size": 361133,
+      "type": "rom",
+      "filename": "Wolfchild (USA).zip"
+    },
+    {
+      "id": "ia-md-wonder-boy-iii-monster-lair-japan-europe-en",
+      "name": "Wonder Boy III - Monster Lair (Japan, Europe) (En)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Wonder%20Boy%20III%20-%20Monster%20Lair%20%28Japan%2C%20Europe%29%20%28En%29.zip",
+      "size": 219543,
+      "type": "rom",
+      "filename": "Wonder Boy III - Monster Lair (Japan, Europe) (En).zip"
+    },
+    {
+      "id": "ia-md-wonder-boy-in-monster-world-usa-europe-t-it-by-disommamich",
+      "name": "Wonder Boy in Monster World (USA, Europe) [T-It by DiSommaMichele v1.04]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Wonder%20Boy%20in%20Monster%20World%20%28USA%2C%20Europe%29%20%5BT-It%20by%20DiSommaMichele%20v1.04%5D.zip",
+      "size": 542172,
+      "type": "rom",
+      "filename": "Wonder Boy in Monster World (USA, Europe) [T-It by DiSommaMichele v1.04].zip"
+    },
+    {
+      "id": "ia-md-world-of-illusion-starring-mickey-mouse-and-donald-duck-us",
+      "name": "World of Illusion Starring Mickey Mouse and Donald Duck (USA, Korea)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/World%20of%20Illusion%20Starring%20Mickey%20Mouse%20and%20Donald%20Duck%20%28USA%2C%20Korea%29.zip",
+      "size": 773069,
+      "type": "rom",
+      "filename": "World of Illusion Starring Mickey Mouse and Donald Duck (USA, Korea).zip"
+    },
+    {
+      "id": "ia-md-x-men-usa-ultimate-patch-by-billytime-games-v1.1",
+      "name": "X-Men (USA) [Ultimate patch by BillyTime Games v1.1]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/X-Men%20%28USA%29%20%5BUltimate%20patch%20by%20BillyTime%20Games%20v1.1%5D.zip",
+      "size": 734640,
+      "type": "rom",
+      "filename": "X-Men (USA) [Ultimate patch by BillyTime Games v1.1].zip"
+    },
+    {
+      "id": "ia-md-x-men-2-clone-wars-usa-europe",
+      "name": "X-Men 2 - Clone Wars (USA, Europe)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/X-Men%202%20-%20Clone%20Wars%20%28USA%2C%20Europe%29.zip",
+      "size": 1169528,
+      "type": "rom",
+      "filename": "X-Men 2 - Clone Wars (USA, Europe).zip"
+    },
+    {
+      "id": "ia-md-xeno-crisis-world-en-ja-fr-de-es-it-nl-pt-aftermarket-unl",
+      "name": "Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Xeno%20Crisis%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 1931829,
+      "type": "rom",
+      "filename": "Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-xenon-2-megablast-europe-color-ntsc-hack-by-fusaru-v1.00",
+      "name": "Xenon 2 - Megablast (Europe) [Color & NTSC hack by Fusaru v1.00]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Xenon%202%20-%20Megablast%20%28Europe%29%20%5BColor%20%26%20NTSC%20hack%20by%20Fusaru%20v1.00%5D.zip",
+      "size": 255433,
+      "type": "rom",
+      "filename": "Xenon 2 - Megablast (Europe) [Color & NTSC hack by Fusaru v1.00].zip"
+    },
+    {
+      "id": "ia-md-ys-iii-usa-t-en-by-plombo-v1.0-relocalized",
+      "name": "Ys III (USA) [T-En by Plombo v1.0] [Relocalized]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Ys%20III%20%28USA%29%20%5BT-En%20by%20Plombo%20v1.0%5D%20%5BRelocalized%5D.zip",
+      "size": 737728,
+      "type": "rom",
+      "filename": "Ys III (USA) [T-En by Plombo v1.0] [Relocalized].zip"
+    },
+    {
+      "id": "ia-md-yu-yu-hakusho-makyou-toitsusen-japan-t-en-by-m.i.j.e.t.-v0",
+      "name": "Yu Yu Hakusho - Makyou Toitsusen (Japan) [T-En by M.I.J.E.T. v071113]",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Yu%20Yu%20Hakusho%20-%20Makyou%20Toitsusen%20%28Japan%29%20%5BT-En%20by%20M.I.J.E.T.%20v071113%5D.zip",
+      "size": 1233960,
+      "type": "rom",
+      "filename": "Yu Yu Hakusho - Makyou Toitsusen (Japan) [T-En by M.I.J.E.T. v071113].zip"
+    },
+    {
+      "id": "ia-md-zero-tolerance-usa-europe-rev-a",
+      "name": "Zero Tolerance (USA, Europe) (Rev A)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Zero%20Tolerance%20%28USA%2C%20Europe%29%20%28Rev%20A%29.zip",
+      "size": 738652,
+      "type": "rom",
+      "filename": "Zero Tolerance (USA, Europe) (Rev A).zip"
+    },
+    {
+      "id": "ia-md-zero-wing-world-aftermarket-unl",
+      "name": "Zero Wing (World) (Aftermarket) (Unl)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Zero%20Wing%20%28World%29%20%28Aftermarket%29%20%28Unl%29.zip",
+      "size": 368113,
+      "type": "rom",
+      "filename": "Zero Wing (World) (Aftermarket) (Unl).zip"
+    },
+    {
+      "id": "ia-md-zombies-ate-my-neighbors-usa",
+      "name": "Zombies Ate My Neighbors (USA)",
+      "category": "game",
+      "tags": [
+        "megadrive"
+      ],
+      "version": "1.0.0",
+      "install": "tico/roms/megadrive",
+      "url": "https://archive.org/download/megadrive-03.01.2021/Zombies%20Ate%20My%20Neighbors%20%28USA%29.zip",
+      "size": 536797,
+      "type": "rom",
+      "filename": "Zombies Ate My Neighbors (USA).zip"
+    }
+  ]
+}
